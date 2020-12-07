@@ -1,3 +1,4 @@
-from database.connector import ingest
+from database.connector import Ingestor
 
-ls = ingest(link="http://test", full_text="dafsd f'adsf ' ''' @:")
+db = Ingestor()
+ls = db.ingest(link="http://test", full_text="dafsd f'adsf ' ''' @:")
