@@ -9,10 +9,10 @@ class Ingestor():
         self.cur.execute(self.prepared)
         self.conn.commit()
     
-    def ingest(self, link, full_text, datum=None, auteur=None, themes=None, triggers=None, bigrams=None, full_without_stop=None):
+    def ingest(self, link, full_text, nep_nieuws, datum=None, auteur=None, themes=None, triggers=None, bigrams=None, full_without_stop=None):
         """Ingest function. The link and full_text cannot be left empty, other variables can be empty. Escapement of strings is taken care of."""
-        self.sql = "EXECUTE fooplan(%s, %s, %s, %s, %s, %s, %s, %s);"
-        self.cur.execute(self.sql, (datum, auteur, link, themes, triggers, bigrams, full_without_stop, full_text))
+        self.sql = "EXECUTE fooplan(%s, %s, %s, %s, %s, %s, %s, %s, %s);"
+        self.cur.execute(self.sql, (datum, auteur, link, themes, triggers, bigrams, full_without_stop, full_text, nep_nieuws))
         self.conn.commit()
 
     def close(self):
