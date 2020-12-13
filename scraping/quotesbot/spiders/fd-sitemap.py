@@ -11,9 +11,9 @@ class FdSitemapSpider(scrapy.Spider):
     for i in range(1, 213):
         start_urls.append('https://nos.nl/zoeken/?q=corona&page=' + str(i)) #TODO pas links aan
 
-        def start_requests(self):
-            for url in self.start_urls:
-                yield Request(url, cookies={'cookie-naam':'cookie'}) #TODO zet hier cookie
+    def start_requests(self):
+        for url in self.start_urls:
+            yield Request(url, cookies={'cookie-naam':'cookie'}) #TODO zet hier cookie
 
     def parse(self, response):
         sleep(0.5)
