@@ -5,7 +5,7 @@ class Ingestor():
     def __init__(self):
         self.conn = psycopg2.connect("dbname=artikelen user=goc password=governance host=database.mvdboon.nl port=15000")
         self.cur = self.conn.cursor()
-        self.prepared = "PREPARE fooplan (date, text, text, text, text, text, text, text) AS INSERT INTO artikelen VALUES($1, $2, $3, $4, $5, $6, $7, $8);"
+        self.prepared = "PREPARE fooplan (date, text, text, text, text, text, text, text, text) AS INSERT INTO artikelen VALUES($1, $2, $3, $4, $5, $6, $7, $8);"
         self.cur.execute(self.prepared)
         self.conn.commit()
     
