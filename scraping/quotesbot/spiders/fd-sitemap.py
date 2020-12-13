@@ -8,7 +8,7 @@ class FdSitemapSpider(scrapy.Spider):
     start_urls = []
     #TODO als er meerdere pagina's zijn met corona-links, voeg die dan toe aan start_urls. Bij de NOS was dit een simpele
     # pagina-count met zoeken op 'corona'
-    for i in range(1, 2):
+    for i in range(1, 48):
         start_urls.append('https://fd.nl/search?customPeriod.start=2020-04-01&customPeriod.end=2020-12-13&period=custom-period&tags=Coronavirus&page=' + str(i)) #TODO pas links aan
 
     def start_requests(self):
@@ -18,7 +18,11 @@ class FdSitemapSpider(scrapy.Spider):
     def parse(self, response):
         # print(response.text)
         sleep(0.5)
-        for li in response.css("fd-horizontal-card-3"):
+        for article in response.css(".fd-horizontal-card-3"):
             yield {
-                'url': li.css("a::attr(href)").extract_first()
+                'url': article.css("a::attr(href)").extract_first()
+            }
+        for article in response.css(".fd-horizontal-card-3 long-read"):
+            yield {
+                'url': article.css("a::attr(href)").extract_first()
             }

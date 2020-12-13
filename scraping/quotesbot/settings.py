@@ -10,6 +10,7 @@
 #     http://scrapy.readthedocs.org/en/latest/topics/spider-middleware.html
 
 BOT_NAME = 'quotesbot'
+# LOG_LEVEL = 'INFO'
 
 SPIDER_MODULES = ['quotesbot.spiders']
 NEWSPIDER_MODULE = 'quotesbot.spiders'
@@ -29,7 +30,7 @@ ROBOTSTXT_OBEY = False
 # See also autothrottle settings and docs
 #DOWNLOAD_DELAY = 3
 # The download delay setting will honor only one of:
-#CONCURRENT_REQUESTS_PER_DOMAIN = 16
+CONCURRENT_REQUESTS_PER_DOMAIN = 5
 #CONCURRENT_REQUESTS_PER_IP = 16
 
 # Disable cookies (enabled by default)
