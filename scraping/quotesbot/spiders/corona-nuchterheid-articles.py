@@ -20,11 +20,12 @@ class CoronanuchterheidArticleSpider(scrapy.Spider):
 
     def parse(self, response):
         date = "null"
-        text = response.css(".entry-content").extract()
+        text = response.css(".entry").extract()
         text = ''.join(text)
+        text = BeautifulSoup(text, "html.parser").get_text().strip()
         for p in response.css(".entry-date"):
-            if p.css("time::text").extract_first():
-                date = p.css("time::text").extract_first()
+            if p.css("time::attr(datetime)").extract_first():
+                date = p.css("time::attr(datetime)").extract_first()
         yield {
             'link': response.request.url,
             'datum': date,

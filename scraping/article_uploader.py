@@ -10,15 +10,14 @@ def upload_json(filename, is_fake):
     with open('./articles/' + filename) as json_file:
         data = json.load(json_file)
         for article in tqdm(data):
-            ls = db.ingest(link=article['link'], full_text=article['full_text'], datum=article['date'], nep_nieuws=is_fake_flag)
+            ls = db.ingest(link=article['link'], full_text=article['full_text'], datum=article['datum'], nep_nieuws=is_fake_flag)
     db.close()
 
 
-# TODO after datetime is fixed
-# upload_json("coronanuchterheid.json", True)
-# upload_json("dagelijksestandaard.json", True)
-# upload_json("oervaccin.json", True)
-# upload_json("xandernieuws.json", True)
+upload_json("coronanuchterheid_v2.json", True)
+upload_json("dagelijksestandaard_v2.json", True)
+upload_json("oervaccin_v2.json", True)
+upload_json("xandernieuws_v2.json", True)
 
 
 # upload_json("staopvoorvrijheid-articles.json", True)

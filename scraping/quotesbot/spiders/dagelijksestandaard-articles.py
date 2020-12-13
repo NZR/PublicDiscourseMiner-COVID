@@ -14,7 +14,7 @@ class DagelijkseStandaardArticleSpider(scrapy.Spider):
         URLlist = json.load(json_file)
         for item in URLlist:
             start_urls.append(item['url'])
-    del start_urls[0:572] # to get all from 573 onwards, which were dropped in first scrape
+    del start_urls[0:452] # to get all from 245 onwards, which were dropped in first scrape
 
     def parse(self, response):
         date = "null"
@@ -22,9 +22,9 @@ class DagelijkseStandaardArticleSpider(scrapy.Spider):
         text = ''.join(text)
         text = BeautifulSoup(text, "html.parser").get_text().strip()
         for p in response.css(".xt-post-date"):
-            if p.css("time::text").extract_first():
-                date = p.css("time::text").extract_first()
-        sleep(0.5)
+            if p.css("time::attr(datetime)").extract_first():
+                date = p.css("time::attr(datetime)").extract_first()
+        sleep(1)
         yield {
             'link': response.request.url,
             'datum': date,
