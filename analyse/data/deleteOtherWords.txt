@@ -11,3 +11,5 @@ delen
 delenklik
 venster
 geopendklik
+nieuwsbrief
+transitieweb

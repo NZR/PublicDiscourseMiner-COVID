@@ -3,16 +3,19 @@ import re
 import nltk
 from nltk import bigrams
 from nltk.tokenize.toktok import ToktokTokenizer
+from collections import Counter as CollCount
+
 
 class Counter:
 
-    def __init__(self):
+    def __init__(self, real):
         self.articles =[]
         self.all_text = ""
+        self.real = real
 
     def add_sites(self, sites):
         for site in sites:
-            with open('../scraping/sitemapURLs/' + site, 'r') as f:
+            with open('./data/websites/' + site, 'r') as f:
                 article = json.load(f)
                 for txt in article:
                     txt = txt['full_text']
@@ -31,11 +34,6 @@ class Counter:
         pattern = r'[^a-zA-z0-9\s]' if not remove_digits else r'[^a-zA-z\s]'
         text = re.sub(pattern, '', text)
         return text.lower()
-
-    # def remove_bigrams(self):
-    #     with open('data/deleteBigrams', "r") as file:
-    #         remove_list = [i for i in file]
-    #     return remove_list
 
     def remove_stopwords(self, text, is_lower_case=False):
         tokenizer = ToktokTokenizer()
@@ -59,38 +57,33 @@ class Counter:
         filtered_text = ' '.join(filtered_tokens)
         return filtered_text
 
-    def calc_bigrams(self):
+    def get_bigrams(self):
         bgs = bigrams(re.split('\.|\n|\s|,', self.all_text))
         fdist = nltk.FreqDist(bgs)
         return fdist
 
-    def count_words(self):
+    def get_words(self):
         fdist = nltk.FreqDist(re.split('\.|\n|\s|,', self.all_text))
         return fdist
 
     def print_bigrams(self):
         # TODO: remove unwanted bigrams
-        fdist = self.calc_bigrams()
+        fdist = self.get_bigrams()
         for k, v in fdist.items():
             if v > 250:
                 print(k, v)
 
     def print_word(self):
-        fdist = self.count_words()
+        fdist = self.get_words()
         for k, v in fdist.items():
             print(k, v)
 
+    def x_top_words(self, x):
+        return CollCount(self.get_words()).most_common(x)
 
-fake = Counter()
-fake_sites = ['staopvoorvrijheid-articles.json', 'stichtingvaccinvrij-articles.json', 'transitieweb-articles.json']
-fake.add_sites(fake_sites)
-print(fake.print_bigrams())
-#
-# real = Counter()
-# real_sites = ['']
-# real.add_sites(real_sites)
+    def x_top_bigrams(self,x):
+        return CollCount(self.get_bigrams()).most_common(x)
 
-def calc_difference(fdist1, fdist2):
-    diff = list(set(fdist1.keys())-set(fdist2.keys()))
-    print(diff)
+if __name__ == "__main__":
+    pass
 
