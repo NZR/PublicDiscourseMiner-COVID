@@ -3,7 +3,6 @@ import re
 import nltk
 from nltk import bigrams
 from nltk.tokenize.toktok import ToktokTokenizer
-import heapq
 
 class Counter:
 
@@ -33,6 +32,11 @@ class Counter:
         text = re.sub(pattern, '', text)
         return text.lower()
 
+    # def remove_bigrams(self):
+    #     with open('data/deleteBigrams', "r") as file:
+    #         remove_list = [i for i in file]
+    #     return remove_list
+
     def remove_stopwords(self, text, is_lower_case=False):
         tokenizer = ToktokTokenizer()
         with open('data/dutch', "r") as file:
@@ -40,13 +44,18 @@ class Counter:
         tokens = tokenizer.tokenize(text)
         tokens = [token.strip() for token in tokens]
         if is_lower_case:
-            filtered_tokens = []
-            for token in tokens:
-                if token not in stopword_list:
-                    filtered_tokens.append(token)
-            # filtered_tokens = [token for token in tokens if token not in stopword_list]
+            filtered_tokens = [token for token in tokens if token not in stopword_list]
         else:
             filtered_tokens = [token for token in tokens if token.lower() not in stopword_list]
+
+        with open('data/deleteOtherWords.txt', "r") as file:
+            delete_word_list = [i.strip() for i in file]
+        tokens = filtered_tokens
+        tokens = [token.strip() for token in tokens]
+        if is_lower_case:
+            filtered_tokens = [token for token in tokens if token not in delete_word_list]
+        else:
+            filtered_tokens = [token for token in tokens if token.lower() not in delete_word_list]
         filtered_text = ' '.join(filtered_tokens)
         return filtered_text
 
@@ -60,24 +69,22 @@ class Counter:
         return fdist
 
     def print_bigrams(self):
+        # TODO: remove unwanted bigrams
         fdist = self.calc_bigrams()
         for k, v in fdist.items():
-            print(k, v)
+            if v > 250:
+                print(k, v)
 
     def print_word(self):
         fdist = self.count_words()
         for k, v in fdist.items():
             print(k, v)
 
-    # def array_from_fdist(self, fdist):
-    #
-    #
-    # def x_most_occuring_bigrams(self, x):
-    #     return heapq.nlargest(x, wordfreq, key=wordfreq.get)
 
 fake = Counter()
 fake_sites = ['staopvoorvrijheid-articles.json', 'stichtingvaccinvrij-articles.json', 'transitieweb-articles.json']
 fake.add_sites(fake_sites)
+print(fake.print_bigrams())
 #
 # real = Counter()
 # real_sites = ['']
