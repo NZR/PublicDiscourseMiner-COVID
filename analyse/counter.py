@@ -32,7 +32,10 @@ class Counter:
 
     def remove_special_characters(self, text, remove_digits=False):
         pattern = r'[^a-zA-z0-9\s]' if not remove_digits else r'[^a-zA-z\s]'
+        pattern_rubbish = r'\b(\w){4,}?jpg\b'
+        text=text.replace("ï", "i")
         text = re.sub(pattern, '', text)
+        text = re.sub(pattern_rubbish, '', text)
         return text.lower()
 
     def remove_stopwords(self, text, is_lower_case=False):
