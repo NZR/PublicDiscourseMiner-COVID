@@ -14,7 +14,7 @@ def upload_json(filename, is_fake):
     db.close()
 
 
-upload_json("fd.json", True)
+upload_json("nos_v2.json", False)
 # upload_json("dagelijksestandaard_v2.json", True)
 # upload_json("oervaccin_v2.json", True)
 # upload_json("xandernieuws_v2.json", True)
