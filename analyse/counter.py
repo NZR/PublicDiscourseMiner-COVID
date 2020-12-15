@@ -31,11 +31,13 @@ class Counter:
         return self.articles
 
     def remove_special_characters(self, text, remove_digits=False):
-        pattern = r'[^a-zA-z0-9\s]' if not remove_digits else r'[^a-zA-z\s]'
+        pattern = r'[^a-zA-Z0-9\s]' if not remove_digits else r'[^a-zA-Z\s]'
         pattern_rubbish = r'\b(\w){4,}?jpg\b'
+        pattern_more_3 = r'\b\w{1,3}\b'
         text=text.replace("ï", "i")
         text = re.sub(pattern, '', text)
         text = re.sub(pattern_rubbish, '', text)
+        text = re.sub(pattern_more_3, '', text)
         return text.lower()
 
     def remove_stopwords(self, text, is_lower_case=False):
