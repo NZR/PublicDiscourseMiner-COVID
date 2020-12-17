@@ -11,21 +11,22 @@ class NrcArticleSpider(scrapy.Spider):
 
     # Get start URLs from json files
     start_urls = []
-    # with open('./sitemapURLs/nrclinks.json') as json_file: #TODO uncomment deze 4 regels  er een brclinks.json bestaat (anders compilet ie de andere spiders ook niet)
-    #     URLlist = json.load(json_file)
-    #     for item in URLlist:
-    #         start_urls.append(item['url'])
+    with open('./sitemapURLs/nrclinks.json') as json_file:
+        URLlist = json.load(json_file)
+        for item in URLlist:
+            start_urls.append(item['url'])
 
     def start_requests(self):
         for url in self.start_urls:
-            yield Request(url, cookies={'FDSSO':'86D4B7A8-2E6F-4D3A-BA37-3AD0B07A380C'}) #TODO zet hier cookie
+            yield Request(url, cookies={'nrcnl_session_id': '782b777b-35c7-4356-ada2-f0666bbcf4e3'})
 
     def parse(self, response):
-        text = response.css(".text_3v_J6Y0G").extract() #TODO zet hier container class van het artikel
-        text = ''.join(text)
+        text = ""
+        for p in response.css(".content > p"):
+            text += p.extract()
         text = BeautifulSoup(text, "html.parser").get_text().strip()
         date = response.css("time::attr(datetime)").extract_first() #TODO sanity check of hier een timestamp in staat
-        sleep(1)
+        sleep(0.5)
         if text != "":
             yield {
                 'link': response.request.url,
