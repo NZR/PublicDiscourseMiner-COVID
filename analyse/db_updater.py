@@ -1,6 +1,7 @@
 import json
 import psycopg2
 from tqdm import tqdm
+from itertools import islice
 
 from counter import Counter
 
@@ -12,6 +13,7 @@ class dbconnect():
     def close(self):
         self.cur.close()
         self.conn.close()
+        
     
     def query(self,sql,vars, select=False):
         self.sql = sql
@@ -48,8 +50,48 @@ def db_update(stopwords=True, bigrams=True):
                 counted_bigrams[key] = v
             gram_str = (json.dumps(counted_bigrams))
             db.query(f'UPDATE artikelen SET bigrams = %s WHERE id = %s', (gram_str, id))
+    db.close()
         
+def count_bigrams(newnieuws=0, freq=True):
+    db = dbconnect()
+    bigrams = {}
+    cur = db.query("SELECT id, bigrams FROM artikelen WHERE nepnieuws = %s", (newnieuws,), True)
+    total_count=0
+    for row in cur:
+        gram = json.loads(row[1])
+        for k,v in gram.items():
+            if k not in bigrams:
+                bigrams[k] = 0
+            bigrams[k] += v
+            total_count += v
+    bigrams = dict(sorted(bigrams.items(), key=lambda item: item[1]))
+    if freq:
+        for k,v in bigrams.items():
+            bigrams[k] = v / total_count
+    db.close()
+    return bigrams
 
 
 if __name__ == "__main__":
     db_update()
+    nep = count_bigrams(1)
+    echt = count_bigrams(0)
+    grams = [nep, echt]
+    dist = {}
+    for gram in grams:
+        for k,v in gram.items():
+            dist[k] = 0
+    for k,v in nep.items():
+        dist[k] += v
+    for k,v in echt.items():
+        dist[k] = dist[k]-v
+
+
+    dist = dict(sorted(dist.items(), key=lambda item: item[1], reverse=True))
+    for item in (islice(dist.items(), 10)):
+        print(item)
+    dist = dict(sorted(dist.items(), key=lambda item: item[1], reverse=False))
+    for item in  (islice(dist.items(), 10)):
+        print(item)
+
+

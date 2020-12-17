@@ -13,3 +13,4 @@ venster
 geopendklik
 nieuwsbrief
 transitieweb
+dagelijksestandaardnl
