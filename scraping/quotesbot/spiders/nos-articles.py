@@ -16,13 +16,14 @@ class NosArticleSpider(scrapy.Spider):
             start_urls.append('https://nos.nl' + item['url'])
 
     def parse(self, response):
-        text = response.css("div[class*=contentBody]").extract()
+        text = response.css(".text_3v_J6Y0G").extract()
         text = ''.join(text)
         text = BeautifulSoup(text, "html.parser").get_text().strip()
         date = response.css("time::attr(datetime)").extract_first()
         sleep(1)
-        yield {
-            'link': response.request.url,
-            'datum': date,
-            'full_text': text,
-        }
+        if text != "":
+            yield {
+                'link': response.request.url,
+                'datum': date,
+                'full_text': text,
+            }
