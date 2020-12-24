@@ -1,0 +1,51 @@
+{
+  "category" :
+  {
+    "1) Person (referred to in conspiracy theories)":
+    {
+      "word" : ["bill", "gates", "armstrong"],
+      "bigram" : ["agenda bill", "gates bevestigt", "gates geeft", "gates geeft", "klaus schwab"]
+    },
+    "2) Person involved in fake news fabrication":
+    {
+      "word" : ["engelbart","steffers","frankema","galien","kenneth","reijmerink","hulleman","burnet","steiner",
+        "wellens"],
+      "bigram" : ["tim engelbart","wout willemsen","kenneth steffers","bart reijmerink","michael galien","kennedy jr",
+        "pierre capel","rob elens","frits bosch","martin armstrong"]
+    },
+    "3) Fakenews movement":
+    {
+      "word" : ["dagelijksestandaardnl","vaccinvrij","xander","viruswaarheid"],
+      "bigram" : ["dagelijkse standaard","stichting vaccinvrij","corona nuchterheid"]
+    },
+    "4) Other disease":
+    {
+      "word" : ["bof","meningokokken","mazelen","kanker","baarmoederhalskanker","polio","kinkhoest","hiv","tetanus",
+        "adhd"],
+      "bigram" : ["griep pandemie","hepatitis b","coronavirus mexicaanse","cervical cancer","mazelen bof",
+        "coronavirus hiv","hiv inplantingen"]
+    },
+    "5) Vaccin discourage term" :
+    {
+      "word" : ["vaccinvrij","vaccinatieschade","biowapen","ingespoten","chip","microchip","staatsgreep","machtsgreep",
+        "wereldregering","geimplanteerde"],
+      "bigram" : ["verplichte vaccinatie","geimplanteerde microchip","chronische aandoeningen","dna schade",
+        "ongewenste neveneffecten","vaccins autisme","verplichte geimplanteerde","uitrol 5g","microchip corona",
+        "mislukt vaccin","bewust misleid"]
+    },
+    "6) Accusatory term for corona protagonist":
+    {
+      "word" : ["globalisten","tirannie","mainstream","elite"],
+      "bigram" : ["globalisten corona","microsoft patent","big pharma","europese farmaproducent","risico obsessie",
+        "onbehagen elite","angstpandemie zelfs","mondkapjes angstpandemie","coronavirus slavenmentaliteit",
+        "sociale quarantaine"]
+    },
+    "8) Other (partly) complot theories":
+    {
+      "word" : ["chemtrails","staatsgreep","totalitaire","machtsgreep","wereldregering","politiestaat","hoax","beest",
+        "straling"],
+      "bigram" : ["mainstream media","big brother","cash geld","pandemie hoax","economische zelfmoord","lab wuhan",
+        "westerse elite","reguliere media","agenda 21","grote reset"]
+    }
+  }
+}
