@@ -4,7 +4,7 @@
     "1) Person (referred to in conspiracy theories)":
     {
       "word" : ["bill", "gates", "armstrong"],
-      "bigram" : ["agenda bill", "gates bevestigt", "gates geeft", "gates geeft", "klaus schwab"]
+      "bigram" : ["agenda bill", "gates bevestigt", "gates geeft", "klaus schwab"]
     },
     "2) Person involved in fake news fabrication":
     {
@@ -15,7 +15,7 @@
     },
     "3) Fakenews movement":
     {
-      "word" : ["dagelijksestandaardnl","vaccinvrij","xander","viruswaarheid"],
+      "word" : ["vaccinvrij","xander","viruswaarheid"],
       "bigram" : ["dagelijkse standaard","stichting vaccinvrij","corona nuchterheid"]
     },
     "4) Other disease":
