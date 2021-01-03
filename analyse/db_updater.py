@@ -2,6 +2,8 @@ import json
 import psycopg2
 from tqdm import tqdm
 from itertools import islice
+import csv
+import random
 
 from counter import Counter
 
@@ -71,11 +73,34 @@ def count_bigrams(newnieuws=0, freq=True):
     db.close()
     return bigrams
 
+def iter_sample_fast(iterable, samplesize):
+    results = []
+    iterator = iter(iterable)
+    # Fill in the first samplesize elements:
+    for _ in xrange(samplesize):
+        results.append(iterator.next())
+    random.shuffle(results)  # Randomize their positions
+    for i, v in enumerate(iterator, samplesize):
+        r = random.randint(0, i)
+        if r < samplesize:
+            results[r] = v  # at a decreasing rate, replace random items
+
+    if len(results) < samplesize:
+        raise ValueError("Sample larger than population.")
+    return results
+
 
 if __name__ == "__main__":
-    db_update()
+    # db_update()
     nep = count_bigrams(1)
     echt = count_bigrams(0)
+    print(len(echt.keys()))
+    nieuw_keys = list(random.sample(list(echt.keys()), 2652))
+    temp = {}
+    for key in nieuw_keys:
+        temp[key] = echt[key]
+    echt=temp
+    print(len(echt))
     grams = [nep, echt]
     dist = {}
     for gram in grams:
@@ -86,12 +111,19 @@ if __name__ == "__main__":
     for k,v in echt.items():
         dist[k] = dist[k]-v
 
-
+    res={}
     dist = dict(sorted(dist.items(), key=lambda item: item[1], reverse=True))
-    for item in (islice(dist.items(), 10)):
-        print(item)
+    for k,v in (islice(dist.items(), 100)):
+        # print(item)
+        res[k]=v
     dist = dict(sorted(dist.items(), key=lambda item: item[1], reverse=False))
-    for item in  (islice(dist.items(), 10)):
-        print(item)
+    for k,v in  (islice(dist.items(), 100)):
+        # print(item)
+        res[k]=v
+
+    with open('output_subsample.csv', 'w+') as file:
+        for k,v in res.items():
+            value = str(v).replace('.', ',')
+            file.write(f'{k};{value}\n')
 
 
