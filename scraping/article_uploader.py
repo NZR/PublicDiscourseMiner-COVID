@@ -1,6 +1,6 @@
 import json
 from tqdm import tqdm
-from database.connector import Ingestor
+from database.ingestor import Ingestor
 
 
 def upload_json(filename, is_fake):
