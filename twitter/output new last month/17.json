@@ -1,0 +1,1237 @@
+[
+    {
+        "created_at": "Sun Jan 03 22:26:53 +0000 2021",
+        "id": 1345859203341164544,
+        "id_str": "1345859203341164544",
+        "text": "@jc06776163 @Misty_Mistic @dicco @Renske1962 @wijnands @Lambert06709734 @ErikvanDoorn @MauricevdBosch Agenda 21 \ud83d\ude02 d\u2026 https://t.co/StU3uh74KI",
+        "display_text_range": [
+            102,
+            140
+        ],
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "truncated": true,
+        "in_reply_to_status_id": 1345855171889389568,
+        "in_reply_to_status_id_str": "1345855171889389568",
+        "in_reply_to_user_id": 1180799852231430144,
+        "in_reply_to_user_id_str": "1180799852231430144",
+        "in_reply_to_screen_name": "jc06776163",
+        "user": {
+            "id": 92716539,
+            "id_str": "92716539",
+            "name": "Rene Stammes",
+            "screen_name": "Stammie82",
+            "location": "North Holland, Hoogwoud",
+            "url": "http://www.stammie.nl",
+            "description": "Powerplatform | .Net | AGSV | @MacawNL | @jcpardoes | Sound engineer | Festivals | Zomerpop",
+            "translator_type": "none",
+            "protected": false,
+            "verified": false,
+            "followers_count": 225,
+            "friends_count": 235,
+            "listed_count": 20,
+            "favourites_count": 1598,
+            "statuses_count": 2861,
+            "created_at": "Thu Nov 26 08:53:11 +0000 2009",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/697136275036512256/D5o17JSA_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/697136275036512256/D5o17JSA_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/92716539/1452355424",
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": {
+            "id": "058e28a61526dbcf",
+            "url": "https://api.twitter.com/1.1/geo/id/058e28a61526dbcf.json",
+            "place_type": "city",
+            "name": "Opmeer",
+            "full_name": "Opmeer, Nederland",
+            "country_code": "NL",
+            "country": "The Netherlands",
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            4.89907,
+                            52.671821
+                        ],
+                        [
+                            4.89907,
+                            52.755327
+                        ],
+                        [
+                            5.011087,
+                            52.755327
+                        ],
+                        [
+                            5.011087,
+                            52.671821
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "contributors": null,
+        "is_quote_status": false,
+        "extended_tweet": {
+            "full_text": "@jc06776163 @Misty_Mistic @dicco @Renske1962 @wijnands @Lambert06709734 @ErikvanDoorn @MauricevdBosch Agenda 21 \ud83d\ude02 dat is iets uit 1989 en daar zit niets kwaads in. Komt ie nu mee aan. Maar goed ik zal wel naief zijn. Ben benieuwd wat jullie verzinnen na 5G en deze Pandemie",
+            "display_text_range": [
+                102,
+                273
+            ],
+            "entities": {
+                "hashtags": [],
+                "urls": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "jc06776163",
+                        "name": "John uit Vlaardingen",
+                        "id": 1180799852231430144,
+                        "id_str": "1180799852231430144",
+                        "indices": [
+                            0,
+                            11
+                        ]
+                    },
+                    {
+                        "screen_name": "Misty_Mistic",
+                        "name": "Misty_Mystic",
+                        "id": 612786403,
+                        "id_str": "612786403",
+                        "indices": [
+                            12,
+                            25
+                        ]
+                    },
+                    {
+                        "screen_name": "dicco",
+                        "name": "Dicco",
+                        "id": 21995743,
+                        "id_str": "21995743",
+                        "indices": [
+                            26,
+                            32
+                        ]
+                    },
+                    {
+                        "screen_name": "Renske1962",
+                        "name": "Renske Wittenberg",
+                        "id": 297993916,
+                        "id_str": "297993916",
+                        "indices": [
+                            33,
+                            44
+                        ]
+                    },
+                    {
+                        "screen_name": "wijnands",
+                        "name": "Jeroen Wijnands",
+                        "id": 24750169,
+                        "id_str": "24750169",
+                        "indices": [
+                            45,
+                            54
+                        ]
+                    },
+                    {
+                        "screen_name": "Lambert06709734",
+                        "name": "fanatiek lid ENGW",
+                        "id": 1332655831083606018,
+                        "id_str": "1332655831083606018",
+                        "indices": [
+                            55,
+                            71
+                        ]
+                    },
+                    {
+                        "screen_name": "ErikvanDoorn",
+                        "name": "Erik van Doorn",
+                        "id": 254480924,
+                        "id_str": "254480924",
+                        "indices": [
+                            72,
+                            85
+                        ]
+                    },
+                    {
+                        "screen_name": "MauricevdBosch",
+                        "name": "Maurice vd Bosch",
+                        "id": 288398369,
+                        "id_str": "288398369",
+                        "indices": [
+                            86,
+                            101
+                        ]
+                    }
+                ],
+                "symbols": []
+            }
+        },
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+            "hashtags": [],
+            "urls": [
+                {
+                    "url": "https://t.co/StU3uh74KI",
+                    "expanded_url": "https://twitter.com/i/web/status/1345859203341164544",
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ],
+            "user_mentions": [
+                {
+                    "screen_name": "jc06776163",
+                    "name": "John uit Vlaardingen",
+                    "id": 1180799852231430144,
+                    "id_str": "1180799852231430144",
+                    "indices": [
+                        0,
+                        11
+                    ]
+                },
+                {
+                    "screen_name": "Misty_Mistic",
+                    "name": "Misty_Mystic",
+                    "id": 612786403,
+                    "id_str": "612786403",
+                    "indices": [
+                        12,
+                        25
+                    ]
+                },
+                {
+                    "screen_name": "dicco",
+                    "name": "Dicco",
+                    "id": 21995743,
+                    "id_str": "21995743",
+                    "indices": [
+                        26,
+                        32
+                    ]
+                },
+                {
+                    "screen_name": "Renske1962",
+                    "name": "Renske Wittenberg",
+                    "id": 297993916,
+                    "id_str": "297993916",
+                    "indices": [
+                        33,
+                        44
+                    ]
+                },
+                {
+                    "screen_name": "wijnands",
+                    "name": "Jeroen Wijnands",
+                    "id": 24750169,
+                    "id_str": "24750169",
+                    "indices": [
+                        45,
+                        54
+                    ]
+                },
+                {
+                    "screen_name": "Lambert06709734",
+                    "name": "fanatiek lid ENGW",
+                    "id": 1332655831083606018,
+                    "id_str": "1332655831083606018",
+                    "indices": [
+                        55,
+                        71
+                    ]
+                },
+                {
+                    "screen_name": "ErikvanDoorn",
+                    "name": "Erik van Doorn",
+                    "id": 254480924,
+                    "id_str": "254480924",
+                    "indices": [
+                        72,
+                        85
+                    ]
+                },
+                {
+                    "screen_name": "MauricevdBosch",
+                    "name": "Maurice vd Bosch",
+                    "id": 288398369,
+                    "id_str": "288398369",
+                    "indices": [
+                        86,
+                        101
+                    ]
+                }
+            ],
+            "symbols": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "filter_level": "low",
+        "lang": "nl",
+        "matching_rules": [
+            {
+                "tag": null
+            }
+        ]
+    },
+    {
+        "created_at": "Wed Dec 30 11:27:58 +0000 2020",
+        "id": 1344243828027486210,
+        "id_str": "1344243828027486210",
+        "text": "Agenda 21 \u201cHet geheime plan voor de aarde\u201d https://t.co/cmu4hj2VO8",
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 484210718,
+            "id_str": "484210718",
+            "name": "Henk",
+            "screen_name": "Spaardam11",
+            "location": null,
+            "url": null,
+            "description": null,
+            "translator_type": "none",
+            "protected": false,
+            "verified": false,
+            "followers_count": 91,
+            "friends_count": 343,
+            "listed_count": 0,
+            "favourites_count": 3097,
+            "statuses_count": 492,
+            "created_at": "Sun Feb 05 21:13:38 +0000 2012",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/578538576167591936/Wmj2ce8S_normal.jpeg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/578538576167591936/Wmj2ce8S_normal.jpeg",
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": {
+            "id": "ad1b1f13f936d5f0",
+            "url": "https://api.twitter.com/1.1/geo/id/ad1b1f13f936d5f0.json",
+            "place_type": "city",
+            "name": "Velsen",
+            "full_name": "Velsen, Nederland",
+            "country_code": "NL",
+            "country": "The Netherlands",
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            4.517196,
+                            52.410874
+                        ],
+                        [
+                            4.517196,
+                            52.492022
+                        ],
+                        [
+                            4.723064,
+                            52.492022
+                        ],
+                        [
+                            4.723064,
+                            52.410874
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "contributors": null,
+        "is_quote_status": false,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+            "hashtags": [],
+            "urls": [
+                {
+                    "url": "https://t.co/cmu4hj2VO8",
+                    "expanded_url": "https://www.alwareness.org/?p=3906",
+                    "display_url": "alwareness.org/?p=3906",
+                    "indices": [
+                        43,
+                        66
+                    ]
+                }
+            ],
+            "user_mentions": [],
+            "symbols": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "filter_level": "low",
+        "lang": "nl",
+        "matching_rules": [
+            {
+                "tag": null
+            }
+        ]
+    },
+    {
+        "created_at": "Mon Dec 21 18:47:48 +0000 2020",
+        "id": 1341093024500232196,
+        "id_str": "1341093024500232196",
+        "text": "@WappieSpotter Agenda 21",
+        "display_text_range": [
+            15,
+            24
+        ],
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 1341088224819769347,
+        "in_reply_to_status_id_str": "1341088224819769347",
+        "in_reply_to_user_id": 1292083391660163072,
+        "in_reply_to_user_id_str": "1292083391660163072",
+        "in_reply_to_screen_name": "WappieSpotter",
+        "user": {
+            "id": 48706038,
+            "id_str": "48706038",
+            "name": "Bierkl\u2b55\u2b55i delta #ikdoewelmee \ud83c\uddf3\ud83c\uddf1",
+            "screen_name": "Bierklooidelta",
+            "location": "Breda",
+            "url": null,
+            "description": "Kantoorp../barman | wielrennen | voetbal | metal | punk | musical | shaslick | toetje",
+            "translator_type": "none",
+            "protected": false,
+            "verified": false,
+            "followers_count": 85,
+            "friends_count": 258,
+            "listed_count": 1,
+            "favourites_count": 4563,
+            "statuses_count": 1828,
+            "created_at": "Fri Jun 19 13:33:39 +0000 2009",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/378800000857653614/4TMzoz6a_normal.jpeg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000857653614/4TMzoz6a_normal.jpeg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/48706038/1386746083",
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": {
+            "id": "75431660bc651ca9",
+            "url": "https://api.twitter.com/1.1/geo/id/75431660bc651ca9.json",
+            "place_type": "city",
+            "name": "Breda",
+            "full_name": "Breda, Nederland",
+            "country_code": "NL",
+            "country": "The Netherlands",
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            4.658036,
+                            51.476718
+                        ],
+                        [
+                            4.658036,
+                            51.643137
+                        ],
+                        [
+                            4.871663,
+                            51.643137
+                        ],
+                        [
+                            4.871663,
+                            51.476718
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "contributors": null,
+        "is_quote_status": false,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "favorite_count": 1,
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "WappieSpotter",
+                    "name": "De Wappie Spotter",
+                    "id": 1292083391660163072,
+                    "id_str": "1292083391660163072",
+                    "indices": [
+                        0,
+                        14
+                    ]
+                }
+            ],
+            "symbols": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "filter_level": "low",
+        "lang": "pt",
+        "matching_rules": [
+            {
+                "tag": null
+            }
+        ]
+    },
+    {
+        "created_at": "Sun Dec 20 21:50:53 +0000 2020",
+        "id": 1340776715140870144,
+        "id_str": "1340776715140870144",
+        "text": "@Ans2aan Heb van agenda 21 weleens gehoord idd",
+        "display_text_range": [
+            9,
+            46
+        ],
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 1340775989203394560,
+        "in_reply_to_status_id_str": "1340775989203394560",
+        "in_reply_to_user_id": 4822577287,
+        "in_reply_to_user_id_str": "4822577287",
+        "in_reply_to_screen_name": "Ans2aan",
+        "user": {
+            "id": 314121660,
+            "id_str": "314121660",
+            "name": "Arjan van den Berg",
+            "screen_name": "ArjanZevenaar",
+            "location": "Zevenaar",
+            "url": null,
+            "description": "|spontaan|radio-presentator|humor|kattenmens|homo|koken|reizen|muziek|films|politiek|boeken|houdt van Rotterdam|kamperen|",
+            "translator_type": "none",
+            "protected": false,
+            "verified": false,
+            "followers_count": 3520,
+            "friends_count": 3627,
+            "listed_count": 76,
+            "favourites_count": 65260,
+            "statuses_count": 160364,
+            "created_at": "Thu Jun 09 19:03:02 +0000 2011",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "1A1B1F",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+            "profile_background_tile": false,
+            "profile_link_color": "2FC2EF",
+            "profile_sidebar_border_color": "181A1E",
+            "profile_sidebar_fill_color": "252429",
+            "profile_text_color": "666666",
+            "profile_use_background_image": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1280822114304643079/rON9HJ_C_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1280822114304643079/rON9HJ_C_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/314121660/1596984289",
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": {
+            "id": "27d6106e606d4f13",
+            "url": "https://api.twitter.com/1.1/geo/id/27d6106e606d4f13.json",
+            "place_type": "city",
+            "name": "Montferland",
+            "full_name": "Montferland, Nederland",
+            "country_code": "NL",
+            "country": "The Netherlands",
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            6.089588,
+                            51.867674
+                        ],
+                        [
+                            6.089588,
+                            51.980599
+                        ],
+                        [
+                            6.332157,
+                            51.980599
+                        ],
+                        [
+                            6.332157,
+                            51.867674
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "contributors": null,
+        "is_quote_status": false,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "Ans2aan",
+                    "name": "Ans \ud83d\udc69\u200d\u2696\ufe0f\u2696\ud83c\udd98",
+                    "id": 4822577287,
+                    "id_str": "4822577287",
+                    "indices": [
+                        0,
+                        8
+                    ]
+                }
+            ],
+            "symbols": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "filter_level": "low",
+        "lang": "nl",
+        "matching_rules": [
+            {
+                "tag": null
+            }
+        ]
+    },
+    {
+        "created_at": "Tue Dec 15 14:54:06 +0000 2020",
+        "id": 1338859887787294734,
+        "id_str": "1338859887787294734",
+        "text": "Syp, Sigrid Kaag heeft ook UN Agenda 21 getekend voor NL.  Waarin dus gepleit wordt de wereldbevolking te reduceren\u2026 https://t.co/HFQc2MMdCt",
+        "display_text_range": [
+            0,
+            140
+        ],
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "truncated": true,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 955060653017968640,
+            "id_str": "955060653017968640",
+            "name": "Mieke van Agtmael",
+            "screen_name": "AgtmaelMieke",
+            "location": "Amsterdam, Nederland",
+            "url": null,
+            "description": null,
+            "translator_type": "none",
+            "protected": false,
+            "verified": false,
+            "followers_count": 204,
+            "friends_count": 294,
+            "listed_count": 0,
+            "favourites_count": 7628,
+            "statuses_count": 9627,
+            "created_at": "Sun Jan 21 12:52:58 +0000 2018",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": "",
+            "profile_background_image_url_https": "",
+            "profile_background_tile": false,
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1147261950134542336/YFwsF5f5_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1147261950134542336/YFwsF5f5_normal.jpg",
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": {
+            "id": "99cdab25eddd6bce",
+            "url": "https://api.twitter.com/1.1/geo/id/99cdab25eddd6bce.json",
+            "place_type": "city",
+            "name": "Amsterdam",
+            "full_name": "Amsterdam, The Netherlands",
+            "country_code": "NL",
+            "country": "The Netherlands",
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            4.7289,
+                            52.278227
+                        ],
+                        [
+                            4.7289,
+                            52.431229
+                        ],
+                        [
+                            5.079207,
+                            52.431229
+                        ],
+                        [
+                            5.079207,
+                            52.278227
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "contributors": null,
+        "quoted_status_id": 1338492274406285312,
+        "quoted_status_id_str": "1338492274406285312",
+        "quoted_status": {
+            "created_at": "Mon Dec 14 14:33:20 +0000 2020",
+            "id": 1338492274406285312,
+            "id_str": "1338492274406285312",
+            "text": "D66-minister @SigridKaag gaat nu ook de fundamentalistische #Moslimbroeders subsidi\u00ebren. Is dit wat u wilt, Tweede\u2026 https://t.co/uA8ebSxkzO",
+            "display_text_range": [
+                0,
+                140
+            ],
+            "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+            "truncated": true,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 48015202,
+                "id_str": "48015202",
+                "name": "Syp Wynia",
+                "screen_name": "sypwynia",
+                "location": "Amsterdam, The Netherlands",
+                "url": "http://www.wyniasweek.nl",
+                "description": "NIEUW! Boek 'Het Beste van Wynia's Week 2020' l Boek 'Tegen de onzin' | Online-magazine Wynia's Week -  http://wyniasweek.nl | #VolgWyniasWeek",
+                "translator_type": "none",
+                "protected": false,
+                "verified": true,
+                "followers_count": 42633,
+                "friends_count": 1167,
+                "listed_count": 299,
+                "favourites_count": 8511,
+                "statuses_count": 34636,
+                "created_at": "Wed Jun 17 16:24:30 +0000 2009",
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "profile_background_color": "000000",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_link_color": "1B95E0",
+                "profile_sidebar_border_color": "000000",
+                "profile_sidebar_fill_color": "000000",
+                "profile_text_color": "000000",
+                "profile_use_background_image": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/788385462901702657/GHgcZeoq_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/788385462901702657/GHgcZeoq_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/48015202/1602070704",
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": null,
+                "follow_request_sent": null,
+                "notifications": null
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "extended_tweet": {
+                "full_text": "D66-minister @SigridKaag gaat nu ook de fundamentalistische #Moslimbroeders subsidi\u00ebren. Is dit wat u wilt, Tweede Kamer?      https://t.co/VZtKUESpOc #volgwyniasweek https://t.co/HhK5hFs5Vz",
+                "display_text_range": [
+                    0,
+                    166
+                ],
+                "entities": {
+                    "hashtags": [
+                        {
+                            "text": "Moslimbroeders",
+                            "indices": [
+                                60,
+                                75
+                            ]
+                        },
+                        {
+                            "text": "volgwyniasweek",
+                            "indices": [
+                                151,
+                                166
+                            ]
+                        }
+                    ],
+                    "urls": [
+                        {
+                            "url": "https://t.co/VZtKUESpOc",
+                            "expanded_url": "https://www.wyniasweek.nl/sigrid-kaag-gaat-nu-ook-de-moslimbroeders-subsidieren/",
+                            "display_url": "wyniasweek.nl/sigrid-kaag-ga\u2026",
+                            "indices": [
+                                127,
+                                150
+                            ]
+                        }
+                    ],
+                    "user_mentions": [
+                        {
+                            "screen_name": "SigridKaag",
+                            "name": "Sigrid Kaag",
+                            "id": 933973531968397312,
+                            "id_str": "933973531968397312",
+                            "indices": [
+                                13,
+                                24
+                            ]
+                        }
+                    ],
+                    "symbols": [],
+                    "media": [
+                        {
+                            "id": 1338491872986222599,
+                            "id_str": "1338491872986222599",
+                            "indices": [
+                                167,
+                                190
+                            ],
+                            "media_url": "http://pbs.twimg.com/media/EpNHRFAXUAcxXQ4.jpg",
+                            "media_url_https": "https://pbs.twimg.com/media/EpNHRFAXUAcxXQ4.jpg",
+                            "url": "https://t.co/HhK5hFs5Vz",
+                            "display_url": "pic.twitter.com/HhK5hFs5Vz",
+                            "expanded_url": "https://twitter.com/sypwynia/status/1338492274406285312/photo/1",
+                            "type": "photo",
+                            "sizes": {
+                                "thumb": {
+                                    "w": 150,
+                                    "h": 150,
+                                    "resize": "crop"
+                                },
+                                "small": {
+                                    "w": 680,
+                                    "h": 383,
+                                    "resize": "fit"
+                                },
+                                "large": {
+                                    "w": 800,
+                                    "h": 450,
+                                    "resize": "fit"
+                                },
+                                "medium": {
+                                    "w": 800,
+                                    "h": 450,
+                                    "resize": "fit"
+                                }
+                            }
+                        }
+                    ]
+                },
+                "extended_entities": {
+                    "media": [
+                        {
+                            "id": 1338491872986222599,
+                            "id_str": "1338491872986222599",
+                            "indices": [
+                                167,
+                                190
+                            ],
+                            "media_url": "http://pbs.twimg.com/media/EpNHRFAXUAcxXQ4.jpg",
+                            "media_url_https": "https://pbs.twimg.com/media/EpNHRFAXUAcxXQ4.jpg",
+                            "url": "https://t.co/HhK5hFs5Vz",
+                            "display_url": "pic.twitter.com/HhK5hFs5Vz",
+                            "expanded_url": "https://twitter.com/sypwynia/status/1338492274406285312/photo/1",
+                            "type": "photo",
+                            "sizes": {
+                                "thumb": {
+                                    "w": 150,
+                                    "h": 150,
+                                    "resize": "crop"
+                                },
+                                "small": {
+                                    "w": 680,
+                                    "h": 383,
+                                    "resize": "fit"
+                                },
+                                "large": {
+                                    "w": 800,
+                                    "h": 450,
+                                    "resize": "fit"
+                                },
+                                "medium": {
+                                    "w": 800,
+                                    "h": 450,
+                                    "resize": "fit"
+                                }
+                            }
+                        }
+                    ]
+                }
+            },
+            "quote_count": 112,
+            "reply_count": 113,
+            "retweet_count": 485,
+            "favorite_count": 852,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "Moslimbroeders",
+                        "indices": [
+                            60,
+                            75
+                        ]
+                    }
+                ],
+                "urls": [
+                    {
+                        "url": "https://t.co/uA8ebSxkzO",
+                        "expanded_url": "https://twitter.com/i/web/status/1338492274406285312",
+                        "display_url": "twitter.com/i/web/status/1\u2026",
+                        "indices": [
+                            116,
+                            139
+                        ]
+                    }
+                ],
+                "user_mentions": [
+                    {
+                        "screen_name": "SigridKaag",
+                        "name": "Sigrid Kaag",
+                        "id": 933973531968397312,
+                        "id_str": "933973531968397312",
+                        "indices": [
+                            13,
+                            24
+                        ]
+                    }
+                ],
+                "symbols": []
+            },
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "filter_level": "low",
+            "lang": "nl"
+        },
+        "quoted_status_permalink": {
+            "url": "https://t.co/ZxUlwlocBH",
+            "expanded": "https://twitter.com/sypwynia/status/1338492274406285312",
+            "display": "twitter.com/sypwynia/statu\u2026"
+        },
+        "is_quote_status": true,
+        "extended_tweet": {
+            "full_text": "Syp, Sigrid Kaag heeft ook UN Agenda 21 getekend voor NL.  Waarin dus gepleit wordt de wereldbevolking te reduceren tot 500 miljoen mensen.  Vragen aan regering zijn nooit beantwoord ..... https://t.co/ZxUlwlocBH",
+            "display_text_range": [
+                0,
+                188
+            ],
+            "entities": {
+                "hashtags": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/ZxUlwlocBH",
+                        "expanded_url": "https://twitter.com/sypwynia/status/1338492274406285312",
+                        "display_url": "twitter.com/sypwynia/statu\u2026",
+                        "indices": [
+                            189,
+                            212
+                        ]
+                    }
+                ],
+                "user_mentions": [],
+                "symbols": []
+            }
+        },
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+            "hashtags": [],
+            "urls": [
+                {
+                    "url": "https://t.co/HFQc2MMdCt",
+                    "expanded_url": "https://twitter.com/i/web/status/1338859887787294734",
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ],
+            "user_mentions": [],
+            "symbols": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "filter_level": "low",
+        "lang": "nl",
+        "matching_rules": [
+            {
+                "tag": null
+            }
+        ]
+    },
+    {
+        "created_at": "Thu Dec 10 19:12:50 +0000 2020",
+        "id": 1337113059924512768,
+        "id_str": "1337113059924512768",
+        "text": "@geldmaat Jullie slopen overal de pinautomaten weg! Dat is de reden! @ABNAMROZakelijk vertelde mij deze week dat ik\u2026 https://t.co/8RSdiBKw5O",
+        "display_text_range": [
+            10,
+            140
+        ],
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "truncated": true,
+        "in_reply_to_status_id": 1305471189364756484,
+        "in_reply_to_status_id_str": "1305471189364756484",
+        "in_reply_to_user_id": 1022075018304528384,
+        "in_reply_to_user_id_str": "1022075018304528384",
+        "in_reply_to_screen_name": "geldmaat",
+        "user": {
+            "id": 1278047941584982023,
+            "id_str": "1278047941584982023",
+            "name": "carlo",
+            "screen_name": "carlo50006901",
+            "location": null,
+            "url": null,
+            "description": null,
+            "translator_type": "none",
+            "protected": false,
+            "verified": false,
+            "followers_count": 15,
+            "friends_count": 119,
+            "listed_count": 0,
+            "favourites_count": 580,
+            "statuses_count": 1516,
+            "created_at": "Tue Jun 30 19:29:26 +0000 2020",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": "",
+            "profile_background_image_url_https": "",
+            "profile_background_tile": false,
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1280975280211968000/bCw76OSj_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1280975280211968000/bCw76OSj_normal.jpg",
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": {
+            "id": "11be710cb8e9851c",
+            "url": "https://api.twitter.com/1.1/geo/id/11be710cb8e9851c.json",
+            "place_type": "city",
+            "name": "Peel en Maas",
+            "full_name": "Peel en Maas, Nederland",
+            "country_code": "NL",
+            "country": "The Netherlands",
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            5.832108,
+                            51.26592
+                        ],
+                        [
+                            5.832108,
+                            51.395705
+                        ],
+                        [
+                            6.123213,
+                            51.395705
+                        ],
+                        [
+                            6.123213,
+                            51.26592
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "contributors": null,
+        "is_quote_status": false,
+        "extended_tweet": {
+            "full_text": "@geldmaat Jullie slopen overal de pinautomaten weg! Dat is de reden! @ABNAMROZakelijk vertelde mij deze week dat ik maar weer een voorraad cash geld moest aanleggen nadat jaren het advies was breng het naar de bank. Ze draaien bij de ABN als een blad aan de boom om als het hun uitkomt.",
+            "display_text_range": [
+                10,
+                286
+            ],
+            "entities": {
+                "hashtags": [],
+                "urls": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "geldmaat",
+                        "name": "Geldmaat",
+                        "id": 1022075018304528384,
+                        "id_str": "1022075018304528384",
+                        "indices": [
+                            0,
+                            9
+                        ]
+                    },
+                    {
+                        "screen_name": "ABNAMROZakelijk",
+                        "name": "ABN AMRO Zakelijk",
+                        "id": 1204295294,
+                        "id_str": "1204295294",
+                        "indices": [
+                            69,
+                            85
+                        ]
+                    }
+                ],
+                "symbols": []
+            }
+        },
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+            "hashtags": [],
+            "urls": [
+                {
+                    "url": "https://t.co/8RSdiBKw5O",
+                    "expanded_url": "https://twitter.com/i/web/status/1337113059924512768",
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ],
+            "user_mentions": [
+                {
+                    "screen_name": "geldmaat",
+                    "name": "Geldmaat",
+                    "id": 1022075018304528384,
+                    "id_str": "1022075018304528384",
+                    "indices": [
+                        0,
+                        9
+                    ]
+                },
+                {
+                    "screen_name": "ABNAMROZakelijk",
+                    "name": "ABN AMRO Zakelijk",
+                    "id": 1204295294,
+                    "id_str": "1204295294",
+                    "indices": [
+                        69,
+                        85
+                    ]
+                }
+            ],
+            "symbols": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "filter_level": "low",
+        "lang": "nl",
+        "matching_rules": [
+            {
+                "tag": null
+            }
+        ]
+    }
+]

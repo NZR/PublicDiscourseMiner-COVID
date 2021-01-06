@@ -6,3 +6,7 @@ nltk
 pytrends
 matplotlib
 pandas
+searchtweets
+searchtweets-v2
+knapsack
+plotly

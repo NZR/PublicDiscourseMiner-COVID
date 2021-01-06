@@ -3,7 +3,7 @@ import pandas as pd
 import json
 import time
 
-pytrends = TrendReq()
+
 
 def get_grams():
     bigrams_string = []
@@ -21,35 +21,37 @@ def get_grams():
     grams = words_string + bigrams_string
     return grams
 
-compare_list = [["viruswaarheid"],["bill gates"], ["corona"], ["staatsgreep"], ["bill gates", "viruswaarheid"], ["staatsgreep", "corona"]]
-grams = get_grams()
-for g in grams:
-    temp = []
-    temp.append(g)
-    compare_list.append(temp)
-print(compare_list)
-timeframe = "2020-06-01 2020-12-01"
-geo = "NL"
-results = {}
-for comp in compare_list:
-    comp_str = ""
-    for c in comp:
-        comp_str += c
-    print(comp_str)
-    results[comp_str] = {}
-    try:
-        for gram in grams:
-            kwlist = comp.copy()
-            kwlist.append(gram)
-            print(kwlist)
-            kwlist = list(set(kwlist))
-            pytrends.build_payload(kw_list=kwlist,timeframe=timeframe, geo=geo)
-            trend = pytrends.interest_over_time()
-            results[comp_str][gram] = trend.to_csv(sep=';')
-            time.sleep(1)
-    finally:
-        with open(f"googlesearch/output/{comp_str}.json", "w+") as file:
-            json.dump(results,file,indent=4)
+if __name__ == "__main__":
+    pytrends = TrendReq()
+    compare_list = [["viruswaarheid"],["bill gates"], ["corona"], ["staatsgreep"], ["bill gates", "viruswaarheid"], ["staatsgreep", "corona"]]
+    grams = get_grams()
+    for g in grams:
+        temp = []
+        temp.append(g)
+        compare_list.append(temp)
+    print(compare_list)
+    timeframe = "2020-06-01 2020-12-01"
+    geo = "NL"
+    results = {}
+    for comp in compare_list:
+        comp_str = ""
+        for c in comp:
+            comp_str += c
+        print(comp_str)
+        results[comp_str] = {}
+        try:
+            for gram in grams:
+                kwlist = comp.copy()
+                kwlist.append(gram)
+                print(kwlist)
+                kwlist = list(set(kwlist))
+                pytrends.build_payload(kw_list=kwlist,timeframe=timeframe, geo=geo)
+                trend = pytrends.interest_over_time()
+                results[comp_str][gram] = trend.to_csv(sep=';')
+                time.sleep(1)
+        finally:
+            with open(f"googlesearch/output/{comp_str}.json", "w+") as file:
+                json.dump(results,file,indent=4)
 
 
 
