@@ -10,3 +10,4 @@ searchtweets
 searchtweets-v2
 knapsack
 plotly
+statsmodels

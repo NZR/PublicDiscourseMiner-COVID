@@ -83,13 +83,16 @@ with open("googlesearch/input/wordsandbigrams.json", "r+") as file:
                 cat_terms[k] = []
             for i in j:
                 cat_terms[k].append(i)
-# print(json.dumps(cat_terms, indent=4))
 df_res_cat = pd.DataFrame(df_res["date"])
 
 for cat, catterms in cat_terms.items():
     df_res_cat[cat]= df_res[catterms].sum(axis=1).round(1)
 with open("googlesearch/df_rest_cat.csv", "wb") as file:
     df_res_cat.to_csv(file, sep=";", decimal=",")
+
+with open("LRA/df_trends.json", "w+") as file:
+    df_res_cat.to_json(file, indent=4)
+    
 df_line = df_res_cat.rolling(7).mean()
 df_line = df_line.join(df_res_cat["date"])
 fig = px.line(df_line, x="date", y=df_line.columns, title='Life expectancy in Canada')

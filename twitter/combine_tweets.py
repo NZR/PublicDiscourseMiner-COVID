@@ -7,12 +7,7 @@ import plotly.express as px
 with open("twitter/refined.json", "rb") as file:
     tweets = json.load(file)
 
-# print(tweets)
-# print(tweets.__class__)
-
-
-
-with open("df_rest_cat.csv", "r") as file:
+with open("googlesearch/df_rest_cat.csv", "r") as file:
     shell_df = pd.read_csv(file, sep=";", decimal=",")
     shell_df = shell_df.drop(columns=shell_df.columns[0])
     shell_df.set_index("date", inplace=True)
@@ -27,6 +22,12 @@ for tweet in tweets:
                 df.loc[tweet_date, cat] += 1
             except KeyError:
                 pass
+
+with open("twitter/df_tweets.json", "w+") as file:
+    df.to_json(file, indent=4)
+
+with open("LRA/df_tweets.json", "w+") as file:
+    df.to_json(file, indent=4)
 
 df_line = df.rolling(7).mean()
 fig = px.line(df_line, title='Tweets usage')
