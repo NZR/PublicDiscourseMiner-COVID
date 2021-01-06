@@ -70,7 +70,7 @@ df_res = pd.DataFrame()
 norm1 = (bg["viruswaarheid"] / vw["viruswaarheid"]).fillna(0)
 norm2 = (vw["staatsgreep"] / sg["staatsgreep"]).fillna(0)
 df_res = bg.join([vw.drop(columns=["viruswaarheid", "date"]).multiply(norm1, axis=0), sg.drop(columns=["staatsgreep", "date"]).multiply(norm2, axis=0).round(1)])
-with open("df_rest.csv", "w+") as file:
+with open("googlesearch/df_rest.csv", "w+") as file:
     df_res.to_csv(file, sep=";", decimal=",")
 
 
@@ -88,7 +88,7 @@ df_res_cat = pd.DataFrame(df_res["date"])
 
 for cat, catterms in cat_terms.items():
     df_res_cat[cat]= df_res[catterms].sum(axis=1).round(1)
-with open("df_rest_cat.csv", "wb") as file:
+with open("googlesearch/df_rest_cat.csv", "wb") as file:
     df_res_cat.to_csv(file, sep=";", decimal=",")
 df_line = df_res_cat.rolling(7).mean()
 df_line = df_line.join(df_res_cat["date"])
