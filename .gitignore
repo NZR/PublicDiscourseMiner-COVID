@@ -137,3 +137,7 @@ dmypy.json
 
 /not sync
 /etc
+
+# IDE
+.idea/
+.vscode/

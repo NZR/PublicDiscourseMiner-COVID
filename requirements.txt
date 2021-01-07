@@ -11,3 +11,5 @@ searchtweets-v2
 knapsack
 plotly
 statsmodels
+psutil
+xlrd
