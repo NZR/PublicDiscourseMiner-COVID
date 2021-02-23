@@ -9,7 +9,7 @@
 #     http://scrapy.readthedocs.org/en/latest/topics/downloader-middleware.html
 #     http://scrapy.readthedocs.org/en/latest/topics/spider-middleware.html
 
-BOT_NAME = 'quotesbot'
+BOT_NAME = 'articlescraper'
 # LOG_LEVEL = 'INFO'
 
 SPIDER_MODULES = ['quotesbot.spiders']
