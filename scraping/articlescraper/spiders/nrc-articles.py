@@ -1,5 +1,4 @@
 from time import sleep
-import re
 import scrapy
 from scrapy.http import Request
 import json
@@ -18,7 +17,7 @@ class NrcArticleSpider(scrapy.Spider):
 
     def start_requests(self):
         for url in self.start_urls:
-            yield Request(url, cookies={'nrcnl_session_id': '782b777b-35c7-4356-ada2-f0666bbcf4e3'})
+            yield Request(url, cookies={'nrcnl_session_id': 'cookie_value'})
 
     def parse(self, response):
         text = ""
