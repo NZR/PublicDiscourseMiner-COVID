@@ -5,13 +5,26 @@
 All the tools to scrape can be found in the directory _/scraping_. Scraping consists of two parts: First, all the URLs of the articles need to be scraped (sitemap), then, following those URLs, the articles themselves are scraped. 
 
 **Scraping basics**
+Every spider file starts in the following way (after some imports):
+```
+class WebsiteXYZSpider(scrapy.Spider):
+    name = "websiteXYZ-sitemap"
+    start_urls = []
+```
+The name is used to call the spider. The usage is as follows: Open the terminal in the /scraping directory.
 
+`scrapy list` returns the list of all spiders which can be used.
 
--commands
+`scrapy crawl <spider name> -o ./filename.json` will execute the spider and place its results in the file _filename.json_
 
--start_urls
+Demo usage:
 
--css selector
+`scrapy crawl nos-sitemap -o ./sitemapURLs/noslinks.json`
+
+The _start_urls_ list at the beginning lists all the URLs the spider will visit and try to scrape. For scraping articles, this will be filled with all the URLs to the articles.
+
+The hardest part is scraping is finding the right _css selector_ on the page. You can find this by pressing F12 to open the Developer Tool in your browser and selecting the article text. The scrapy documentation https://docs.scrapy.org/en/latest/topics/selectors.html lists a few examples and how to find the correct one. In the end it's getting a bit of practice to find the right selector on a page quickly. Once you have found the selector for one article on a certain site, you can usually use it to scrape all articles.
+
 
 **Scraping the sitemap**
 
