@@ -11,7 +11,6 @@ class VirusWaarheidSpider(scrapy.Spider):
     data = json.load(open("sitemapURLs/viruswaarheid-sitemap.json"))
 
     start_urls = [item["url"] for item in data]
-    # start_urls = [[item["url"] for item in data][0]]
 
     def parse(self, response):
 
