@@ -12,8 +12,8 @@
 BOT_NAME = 'articlescraper'
 # LOG_LEVEL = 'INFO'
 
-SPIDER_MODULES = ['quotesbot.spiders']
-NEWSPIDER_MODULE = 'quotesbot.spiders'
+SPIDER_MODULES = ['articlescraper.spiders']
+NEWSPIDER_MODULE = 'articlescraper.spiders'
 
 
 # Crawl responsibly by identifying yourself (and your website) on the user-agent

@@ -7,7 +7,7 @@ def upload_json(filename, is_fake):
     is_fake_flag = 1 if is_fake else 0
     db = Ingestor()
     print("Uploading ", filename)
-    with open('./articles/' + filename) as json_file:
+    with open('./' + filename) as json_file:
         data = json.load(json_file)
         for article in tqdm(data):
             ls = db.ingest(link=article['link'], full_text=article['full_text'], datum=article['datum'], nep_nieuws=is_fake_flag)
