@@ -20,7 +20,7 @@ class FdArticleSpider(scrapy.Spider):
 
     def start_requests(self):
         for url in self.start_urls:
-            yield Request(url, cookies={'cookie_name': 'cookie_value'})  # Add cookie for FD here
+            yield Request(url, cookies={'FDSSO': 'cookie_value'})  # Add cookie for FD here
 
     def parse(self, response):
         pattern = r'<script type="application\/ld\+json"((.)*)script>'
