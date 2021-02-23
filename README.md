@@ -13,7 +13,7 @@ class WebsiteXYZSpider(scrapy.Spider):
 ```
 The name is used to call the spider. The usage is as follows: Open the terminal in the /scraping directory.
 
-`scrapy list` returns the list of all spiders which can be used.
+`scrapy list` returns the list of all spiders which can be used. This command will also try to compile all scrapers, so if any spider refers to a file which does not (yet) exist it will not compile. The simplest way to start is just by commenting out all scrapers which return an error (most likely all _-articles.py_ files since they read from a _links.json_ file which does not yet exist because it was not scraped).
 
 `scrapy crawl <spider name> -o ./filename.json` will execute the spider and place its results in the file _filename.json_
 
