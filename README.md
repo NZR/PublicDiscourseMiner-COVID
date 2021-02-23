@@ -28,7 +28,7 @@ The hardest part is scraping is finding the right _css selector_ on the page. Yo
 
 **Scraping the sitemap**
 
-This is demonstrated by the _*-sitemap.py_ files. If you're lucky, the site you want to scrape has a sitemap.xml, similar to for example "https://www.transitieweb.nl/post-sitemap.xml". These page scan be scraped by the same spider as the _transitieweb-sitemap.py_ one, the only thing you need to change is the URL in _start_urls_.
+This is demonstrated by the _*-sitemap.py_ files. It is possible that the site you want to scrape has a sitemap.xml, similar to for example "https://www.transitieweb.nl/post-sitemap.xml". These page scan be scraped by the same spider as the _transitieweb-sitemap.py_ one, the only thing you need to change is the URL in _start_urls_. Instead of the regular scrapy.Spider, this uses an XMLFeedSpider, more information about this can be found at https://docs.scrapy.org/en/latest/topics/spiders.html#xmlfeedspider.
 
 It's also a possibility that you want to scrape all the results of a certain search query on a site. This is demonstrated by for example _nos.sitemap.py_. Usually, the results get displayed on multiple pages and you want to scrape the results of all pages. If there is an iterator in the URL (such as the &page=X in the nos.nl one), you can create a for-loop which iterates over all these pages. Another example is the one from _dagelijksestandaard-sitemap.py_, where the page number is in the middle of the URL.
 ```
