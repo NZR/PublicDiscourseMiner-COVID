@@ -8,7 +8,9 @@ Public discourse miner - public version : https://github.com/tijmengit/scraper
 
 Analysis repo (PRIVATE): https://github.com/Mvdboon/GovernanceofCyber
 Warning: issues with dependencies on Scipi
+
     error: cannot import name 'factorial' from 'scipy.misc'  
+
     fix: pip install statsmodels --upgrade
 
 
