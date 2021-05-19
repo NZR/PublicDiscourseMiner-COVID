@@ -8,6 +8,9 @@ Public repository (final-for publication) : https://github.com/NZR/eGov-PDM-pape
 
 Public discourse miner - public version (from assignment): https://github.com/tijmengit/scraper 
 
+
+GDoc with categories: (result of qualitative analysis of bigrams) - https://docs.google.com/spreadsheets/d/10UUA74o2rEFRAFVmPjSmZtkGqIFPbyA9PxPnXd9Uzrc/edit#gid=0 
+
 Analysis repo (PRIVATE): https://github.com/Mvdboon/GovernanceofCyber
 Warning: issues with dependencies on Scipi
 
