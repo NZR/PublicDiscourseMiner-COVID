@@ -7,7 +7,8 @@ On going paper : https://tud365-my.sharepoint.com/:w:/g/personal/nkadenko_tudelf
 Public discourse miner - public version : https://github.com/tijmengit/scraper 
 
 Tools for the project: 
-- Docker stack : https://jupyter-docker-stacks.readthedocs.io/en/latest/index.html
+- Docker tool installation / doc: https://docs.docker.com/docker-for-windows/install/ 
+- Jupyter/Docker stack : https://jupyter-docker-stacks.readthedocs.io/en/latest/index.html
  
  
 
