@@ -6,7 +6,7 @@ On going paper : https://tud365-my.sharepoint.com/:w:/g/personal/nkadenko_tudelf
 
 Public discourse miner - public version : https://github.com/tijmengit/scraper 
 
-Analysis repo: https://github.com/Mvdboon/GovernanceofCyber
+Analysis repo (PRIVATE): https://github.com/Mvdboon/GovernanceofCyber
 
 
 Tools for the project: 
