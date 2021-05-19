@@ -3,8 +3,10 @@
 References to external resources: 
 
 On going paper : https://tud365-my.sharepoint.com/:w:/g/personal/nkadenko_tudelft_nl/ETheoWDJiJxNpvGb7iQ-sLgBnI8rAw_PX9j8DKiBOfGPiw?e=E9lW7z
+Public repository (final-for publication) : https://github.com/NZR/eGov-PDM-paper
+(WARNING: Name subject to change). 
 
-Public discourse miner - public version : https://github.com/tijmengit/scraper 
+Public discourse miner - public version (from assignment): https://github.com/tijmengit/scraper 
 
 Analysis repo (PRIVATE): https://github.com/Mvdboon/GovernanceofCyber
 Warning: issues with dependencies on Scipi
