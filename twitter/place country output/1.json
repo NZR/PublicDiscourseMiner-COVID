@@ -1,0 +1,4924 @@
+[
+    {
+        "created_at": "Mon Nov 30 15:25:11 +0000 2020",
+        "id": 1333431889366028288,
+        "id_str": "1333431889366028288",
+        "text": "Klaus Schwab en co. vonden de maatregelen zeker ook te beperkend in hun chalet in Zwitserland. https://t.co/jjOgCUnRp9",
+        "display_text_range": [
+            0,
+            94
+        ],
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 955060653017968640,
+            "id_str": "955060653017968640",
+            "name": "Mieke van Agtmael",
+            "screen_name": "AgtmaelMieke",
+            "location": "Amsterdam, Nederland",
+            "url": null,
+            "description": null,
+            "translator_type": "none",
+            "protected": false,
+            "verified": false,
+            "followers_count": 202,
+            "friends_count": 294,
+            "listed_count": 0,
+            "favourites_count": 7595,
+            "statuses_count": 9561,
+            "created_at": "Sun Jan 21 12:52:58 +0000 2018",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": "",
+            "profile_background_image_url_https": "",
+            "profile_background_tile": false,
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1147261950134542336/YFwsF5f5_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1147261950134542336/YFwsF5f5_normal.jpg",
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": {
+            "id": "99cdab25eddd6bce",
+            "url": "https://api.twitter.com/1.1/geo/id/99cdab25eddd6bce.json",
+            "place_type": "city",
+            "name": "Amsterdam",
+            "full_name": "Amsterdam, The Netherlands",
+            "country_code": "NL",
+            "country": "The Netherlands",
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            4.7289,
+                            52.278227
+                        ],
+                        [
+                            4.7289,
+                            52.431229
+                        ],
+                        [
+                            5.079207,
+                            52.431229
+                        ],
+                        [
+                            5.079207,
+                            52.278227
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "contributors": null,
+        "quoted_status_id": 1333167298518130693,
+        "quoted_status_id_str": "1333167298518130693",
+        "quoted_status": {
+            "created_at": "Sun Nov 29 21:53:47 +0000 2020",
+            "id": 1333167298518130693,
+            "id_str": "1333167298518130693",
+            "text": "Ook Zwitserland volgt nu de Zweedse corona strategie! Geen lockdown geen boetes of economie dicht, gewoon doorgaan\u2026 https://t.co/VhIK1fdfUO",
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "truncated": true,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 1241735820765249536,
+                "id_str": "1241735820765249536",
+                "name": "Badr asbai",
+                "screen_name": "AsbaiBadr",
+                "location": null,
+                "url": null,
+                "description": "Een echte Anchorman zonder uitzending, die  niet gedwee in de pas mee loopt met het kuddevolk.",
+                "translator_type": "none",
+                "protected": false,
+                "verified": false,
+                "followers_count": 3681,
+                "friends_count": 3848,
+                "listed_count": 4,
+                "favourites_count": 9169,
+                "statuses_count": 7375,
+                "created_at": "Sun Mar 22 14:38:03 +0000 2020",
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": true,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": "",
+                "profile_background_image_url_https": "",
+                "profile_background_tile": false,
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1248428655136526341/34pMu9yY_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1248428655136526341/34pMu9yY_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1241735820765249536/1586453213",
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": null,
+                "follow_request_sent": null,
+                "notifications": null
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "extended_tweet": {
+                "full_text": "Ook Zwitserland volgt nu de Zweedse corona strategie! Geen lockdown geen boetes of economie dicht, gewoon doorgaan met t normale leven en de besmettingen gaan steeds verder omlaag! Ook de bevolking vind dit de juiste strategie, zelfs t zieken personeel! \n https://t.co/FHY6NCRhqh",
+                "display_text_range": [
+                    0,
+                    279
+                ],
+                "entities": {
+                    "hashtags": [],
+                    "urls": [
+                        {
+                            "url": "https://t.co/FHY6NCRhqh",
+                            "expanded_url": "https://www.hln.be/dossier-coronavirus-verspreidt-zich/overtuigende-kentering-in-coronacijfers-zonder-lockdown-zo-heeft-zwitserland-dat-verwezenlijkt~aa32e7ca/?utm_source=facebook&utm_medium=social&utm_campaign=socialsharing_web&fbclid=IwAR03Df8lIhMrSEYgWyt_aBXHdSL7GWTdBGyiODWzOo90qRarNK2H_R2dQcE&referrer=http%3A%2F%2Fm.facebook.com&referrer=https%3A%2F%2Fwww.linkedin.com%2F&referrer=https%3A%2F%2Ft.co%2F",
+                            "display_url": "hln.be/dossier-corona\u2026",
+                            "indices": [
+                                256,
+                                279
+                            ]
+                        }
+                    ],
+                    "user_mentions": [],
+                    "symbols": []
+                }
+            },
+            "quote_count": 52,
+            "reply_count": 21,
+            "retweet_count": 319,
+            "favorite_count": 641,
+            "entities": {
+                "hashtags": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/VhIK1fdfUO",
+                        "expanded_url": "https://twitter.com/i/web/status/1333167298518130693",
+                        "display_url": "twitter.com/i/web/status/1\u2026",
+                        "indices": [
+                            116,
+                            139
+                        ]
+                    }
+                ],
+                "user_mentions": [],
+                "symbols": []
+            },
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "filter_level": "low",
+            "lang": "nl"
+        },
+        "quoted_status_permalink": {
+            "url": "https://t.co/jjOgCUnRp9",
+            "expanded": "https://twitter.com/AsbaiBadr/status/1333167298518130693",
+            "display": "twitter.com/AsbaiBadr/stat\u2026"
+        },
+        "is_quote_status": true,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 2,
+        "favorite_count": 5,
+        "entities": {
+            "hashtags": [],
+            "urls": [
+                {
+                    "url": "https://t.co/jjOgCUnRp9",
+                    "expanded_url": "https://twitter.com/AsbaiBadr/status/1333167298518130693",
+                    "display_url": "twitter.com/AsbaiBadr/stat\u2026",
+                    "indices": [
+                        95,
+                        118
+                    ]
+                }
+            ],
+            "user_mentions": [],
+            "symbols": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "filter_level": "low",
+        "lang": "nl",
+        "matching_rules": [
+            {
+                "tag": null
+            }
+        ]
+    },
+    {
+        "created_at": "Sat Nov 28 22:12:57 +0000 2020",
+        "id": 1332809732197912587,
+        "id_str": "1332809732197912587",
+        "text": "@wout_willemsen @EDB771 @petervbelkom @ChrisAalberts @JJ_Almekinders Serieus. Zo zwak, blindheid van toen rechtprat\u2026 https://t.co/sxksFHdLYA",
+        "display_text_range": [
+            69,
+            140
+        ],
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "truncated": true,
+        "in_reply_to_status_id": 1332706236467470336,
+        "in_reply_to_status_id_str": "1332706236467470336",
+        "in_reply_to_user_id": 1203886801,
+        "in_reply_to_user_id_str": "1203886801",
+        "in_reply_to_screen_name": "wout_willemsen",
+        "user": {
+            "id": 29875002,
+            "id_str": "29875002",
+            "name": "Jelger Groeneveld",
+            "screen_name": "jelger_",
+            "location": "Den Haag",
+            "url": "https://www.eastwatch.eu/",
+            "description": "|\ud83c\uddec\ud83c\uddeaGeorgia|\ud83c\udfd4\ufe0fCaucasus|\ud83c\uddea\ud83c\uddfa Eastern Partnership|\ud83d\udfe2D66| Strictly personal |\nwww2: http://occupied.eastwatch.eu",
+            "translator_type": "none",
+            "protected": false,
+            "verified": false,
+            "followers_count": 1474,
+            "friends_count": 1137,
+            "listed_count": 54,
+            "favourites_count": 6494,
+            "statuses_count": 21975,
+            "created_at": "Thu Apr 09 00:55:13 +0000 2009",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+            "profile_background_tile": false,
+            "profile_link_color": "19CF86",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1328119202516000769/5wtI9x2L_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1328119202516000769/5wtI9x2L_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/29875002/1606998206",
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": {
+            "id": "4e696bef7e24d378",
+            "url": "https://api.twitter.com/1.1/geo/id/4e696bef7e24d378.json",
+            "place_type": "city",
+            "name": "Delft",
+            "full_name": "Delft, Nederland",
+            "country_code": "NL",
+            "country": "The Netherlands",
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            4.320211,
+                            51.966366
+                        ],
+                        [
+                            4.320211,
+                            52.032543
+                        ],
+                        [
+                            4.407964,
+                            52.032543
+                        ],
+                        [
+                            4.407964,
+                            51.966366
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "contributors": null,
+        "is_quote_status": false,
+        "extended_tweet": {
+            "full_text": "@wout_willemsen @EDB771 @petervbelkom @ChrisAalberts @JJ_Almekinders Serieus. Zo zwak, blindheid van toen rechtpraten met \"er was eigenlijk geen bewijs\". Dat bewijst vooral verkokering, ook onder zelfverklaarde \"onafhankelijke pers\" die vooral als propaganda kanalen diende. De kritiek die terecht blijkt mocht gewoon niet gehoord worden.",
+            "display_text_range": [
+                69,
+                338
+            ],
+            "entities": {
+                "hashtags": [],
+                "urls": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "wout_willemsen",
+                        "name": "Wout Willemsen",
+                        "id": 1203886801,
+                        "id_str": "1203886801",
+                        "indices": [
+                            0,
+                            15
+                        ]
+                    },
+                    {
+                        "screen_name": "EDB771",
+                        "name": "Erik van der Does de Bye",
+                        "id": 1089852774064549889,
+                        "id_str": "1089852774064549889",
+                        "indices": [
+                            16,
+                            23
+                        ]
+                    },
+                    {
+                        "screen_name": "petervbelkom",
+                        "name": "Peter van Belkom",
+                        "id": 148801948,
+                        "id_str": "148801948",
+                        "indices": [
+                            24,
+                            37
+                        ]
+                    },
+                    {
+                        "screen_name": "ChrisAalberts",
+                        "name": "Chris Aalberts",
+                        "id": 19158925,
+                        "id_str": "19158925",
+                        "indices": [
+                            38,
+                            52
+                        ]
+                    },
+                    {
+                        "screen_name": "JJ_Almekinders",
+                        "name": "Johan Almekinders",
+                        "id": 1078329564881973248,
+                        "id_str": "1078329564881973248",
+                        "indices": [
+                            53,
+                            68
+                        ]
+                    }
+                ],
+                "symbols": []
+            }
+        },
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0,
+        "favorite_count": 2,
+        "entities": {
+            "hashtags": [],
+            "urls": [
+                {
+                    "url": "https://t.co/sxksFHdLYA",
+                    "expanded_url": "https://twitter.com/i/web/status/1332809732197912587",
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ],
+            "user_mentions": [
+                {
+                    "screen_name": "wout_willemsen",
+                    "name": "Wout Willemsen",
+                    "id": 1203886801,
+                    "id_str": "1203886801",
+                    "indices": [
+                        0,
+                        15
+                    ]
+                },
+                {
+                    "screen_name": "EDB771",
+                    "name": "Erik van der Does de Bye",
+                    "id": 1089852774064549889,
+                    "id_str": "1089852774064549889",
+                    "indices": [
+                        16,
+                        23
+                    ]
+                },
+                {
+                    "screen_name": "petervbelkom",
+                    "name": "Peter van Belkom",
+                    "id": 148801948,
+                    "id_str": "148801948",
+                    "indices": [
+                        24,
+                        37
+                    ]
+                },
+                {
+                    "screen_name": "ChrisAalberts",
+                    "name": "Chris Aalberts",
+                    "id": 19158925,
+                    "id_str": "19158925",
+                    "indices": [
+                        38,
+                        52
+                    ]
+                },
+                {
+                    "screen_name": "JJ_Almekinders",
+                    "name": "Johan Almekinders",
+                    "id": 1078329564881973248,
+                    "id_str": "1078329564881973248",
+                    "indices": [
+                        53,
+                        68
+                    ]
+                }
+            ],
+            "symbols": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "filter_level": "low",
+        "lang": "nl",
+        "matching_rules": [
+            {
+                "tag": null
+            }
+        ]
+    },
+    {
+        "created_at": "Sat Nov 28 07:38:52 +0000 2020",
+        "id": 1332589763010981888,
+        "id_str": "1332589763010981888",
+        "text": "Klaus Schwab (voorzitter World Economic Forum) en 'the great reset' bewijs van totale planning https://t.co/QOBKWaevZ3 via @MartinVrijland",
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1248375876632395776,
+            "id_str": "1248375876632395776",
+            "name": "Dennis",
+            "screen_name": "DennisBitter187",
+            "location": "Amsterdam, Nederland",
+            "url": null,
+            "description": null,
+            "translator_type": "none",
+            "protected": false,
+            "verified": false,
+            "followers_count": 1,
+            "friends_count": 19,
+            "listed_count": 0,
+            "favourites_count": 0,
+            "statuses_count": 103,
+            "created_at": "Thu Apr 09 22:23:11 +0000 2020",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": "",
+            "profile_background_image_url_https": "",
+            "profile_background_tile": false,
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+            "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": {
+            "id": "99cdab25eddd6bce",
+            "url": "https://api.twitter.com/1.1/geo/id/99cdab25eddd6bce.json",
+            "place_type": "city",
+            "name": "Amsterdam",
+            "full_name": "Amsterdam, The Netherlands",
+            "country_code": "NL",
+            "country": "The Netherlands",
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            4.7289,
+                            52.278227
+                        ],
+                        [
+                            4.7289,
+                            52.431229
+                        ],
+                        [
+                            5.079207,
+                            52.431229
+                        ],
+                        [
+                            5.079207,
+                            52.278227
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "contributors": null,
+        "is_quote_status": false,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+            "hashtags": [],
+            "urls": [
+                {
+                    "url": "https://t.co/QOBKWaevZ3",
+                    "expanded_url": "https://www.martinvrijland.nl/nieuws-analyses/klaus-schwab-voorzitter-world-economic-forum-en-the-great-reset-beijws-van-totale-planning/",
+                    "display_url": "martinvrijland.nl/nieuws-analyse\u2026",
+                    "indices": [
+                        95,
+                        118
+                    ]
+                }
+            ],
+            "user_mentions": [
+                {
+                    "screen_name": "MartinVrijland",
+                    "name": "Martin Vrijland",
+                    "id": 965790428,
+                    "id_str": "965790428",
+                    "indices": [
+                        123,
+                        138
+                    ]
+                }
+            ],
+            "symbols": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "filter_level": "low",
+        "lang": "nl",
+        "matching_rules": [
+            {
+                "tag": null
+            }
+        ]
+    },
+    {
+        "created_at": "Fri Nov 27 06:55:02 +0000 2020",
+        "id": 1332216344788529152,
+        "id_str": "1332216344788529152",
+        "text": "Dit is het zoveelste bewijs van bewuste volkonderdrukking politiek het zijn deze internationale figuren die achter\u2026 https://t.co/iqjEfM3TCj",
+        "display_text_range": [
+            0,
+            140
+        ],
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "truncated": true,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 955060653017968640,
+            "id_str": "955060653017968640",
+            "name": "Mieke van Agtmael",
+            "screen_name": "AgtmaelMieke",
+            "location": "Amsterdam, Nederland",
+            "url": null,
+            "description": null,
+            "translator_type": "none",
+            "protected": false,
+            "verified": false,
+            "followers_count": 202,
+            "friends_count": 294,
+            "listed_count": 0,
+            "favourites_count": 7595,
+            "statuses_count": 9561,
+            "created_at": "Sun Jan 21 12:52:58 +0000 2018",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": "",
+            "profile_background_image_url_https": "",
+            "profile_background_tile": false,
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1147261950134542336/YFwsF5f5_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1147261950134542336/YFwsF5f5_normal.jpg",
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": {
+            "id": "99cdab25eddd6bce",
+            "url": "https://api.twitter.com/1.1/geo/id/99cdab25eddd6bce.json",
+            "place_type": "city",
+            "name": "Amsterdam",
+            "full_name": "Amsterdam, The Netherlands",
+            "country_code": "NL",
+            "country": "The Netherlands",
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            4.7289,
+                            52.278227
+                        ],
+                        [
+                            4.7289,
+                            52.431229
+                        ],
+                        [
+                            5.079207,
+                            52.431229
+                        ],
+                        [
+                            5.079207,
+                            52.278227
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "contributors": null,
+        "quoted_status_id": 1332116025027010562,
+        "quoted_status_id_str": "1332116025027010562",
+        "quoted_status": {
+            "created_at": "Fri Nov 27 00:16:24 +0000 2020",
+            "id": 1332116025027010562,
+            "id_str": "1332116025027010562",
+            "text": "Mark #Rutte kust de hand van Klaus Schwab!\n\n#Schwab? Ja, tot voor kort hadden maar weinig mensen gehoord van deze m\u2026 https://t.co/4qAbbYNDHn",
+            "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+            "truncated": true,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 1110591255338192896,
+                "id_str": "1110591255338192896",
+                "name": "CommonSenseTV",
+                "screen_name": "CommonSense_TV",
+                "location": "The Netherlands",
+                "url": "https://commonsensetv.nl/",
+                "description": "CommonSenseTV - Oprecht onafhankelijk nieuws door echte mensen. \n\nOp weg naar een samenleving gebaseerd op gezond verstand.",
+                "translator_type": "none",
+                "protected": false,
+                "verified": false,
+                "followers_count": 4601,
+                "friends_count": 888,
+                "listed_count": 23,
+                "favourites_count": 11049,
+                "statuses_count": 17200,
+                "created_at": "Tue Mar 26 17:16:03 +0000 2019",
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "profile_background_color": "000000",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_link_color": "ABB8C2",
+                "profile_sidebar_border_color": "000000",
+                "profile_sidebar_fill_color": "000000",
+                "profile_text_color": "000000",
+                "profile_use_background_image": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1168075601204432901/QjDwz-4O_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1168075601204432901/QjDwz-4O_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1110591255338192896/1558189292",
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": null,
+                "follow_request_sent": null,
+                "notifications": null
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "extended_tweet": {
+                "full_text": "Mark #Rutte kust de hand van Klaus Schwab!\n\n#Schwab? Ja, tot voor kort hadden maar weinig mensen gehoord van deze man. Hij staat aan het roer van het World Economic Forum #WEF, Klaus heeft het opgericht en is bestuursvoorzitter van het WEF. \nLees verder:\ud83d\udc47\nhttps://t.co/MCNf3aIlGd",
+                "display_text_range": [
+                    0,
+                    279
+                ],
+                "entities": {
+                    "hashtags": [
+                        {
+                            "text": "Rutte",
+                            "indices": [
+                                5,
+                                11
+                            ]
+                        },
+                        {
+                            "text": "Schwab",
+                            "indices": [
+                                44,
+                                51
+                            ]
+                        },
+                        {
+                            "text": "WEF",
+                            "indices": [
+                                171,
+                                175
+                            ]
+                        }
+                    ],
+                    "urls": [
+                        {
+                            "url": "https://t.co/MCNf3aIlGd",
+                            "expanded_url": "https://commonsensetv.nl/rutte-en-het-world-economic-forum/",
+                            "display_url": "commonsensetv.nl/rutte-en-het-w\u2026",
+                            "indices": [
+                                256,
+                                279
+                            ]
+                        }
+                    ],
+                    "user_mentions": [],
+                    "symbols": []
+                }
+            },
+            "quote_count": 33,
+            "reply_count": 41,
+            "retweet_count": 130,
+            "favorite_count": 188,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "Rutte",
+                        "indices": [
+                            5,
+                            11
+                        ]
+                    },
+                    {
+                        "text": "Schwab",
+                        "indices": [
+                            44,
+                            51
+                        ]
+                    }
+                ],
+                "urls": [
+                    {
+                        "url": "https://t.co/4qAbbYNDHn",
+                        "expanded_url": "https://twitter.com/i/web/status/1332116025027010562",
+                        "display_url": "twitter.com/i/web/status/1\u2026",
+                        "indices": [
+                            117,
+                            140
+                        ]
+                    }
+                ],
+                "user_mentions": [],
+                "symbols": []
+            },
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "filter_level": "low",
+            "lang": "nl"
+        },
+        "quoted_status_permalink": {
+            "url": "https://t.co/p74NdOxG7P",
+            "expanded": "https://twitter.com/CommonSense_TV/status/1332116025027010562",
+            "display": "twitter.com/CommonSense_TV\u2026"
+        },
+        "is_quote_status": true,
+        "extended_tweet": {
+            "full_text": "Dit is het zoveelste bewijs van bewuste volkonderdrukking politiek het zijn deze internationale figuren die achter de schermen klaus schwab is er een van die onze zwakzinnige corrupte politieke elite afkoopt om hun wereldwijde nieuwe wereld orde te cre\u00ebren onderzoek un agenda 21 https://t.co/p74NdOxG7P",
+            "display_text_range": [
+                0,
+                279
+            ],
+            "entities": {
+                "hashtags": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/p74NdOxG7P",
+                        "expanded_url": "https://twitter.com/CommonSense_TV/status/1332116025027010562",
+                        "display_url": "twitter.com/CommonSense_TV\u2026",
+                        "indices": [
+                            280,
+                            303
+                        ]
+                    }
+                ],
+                "user_mentions": [],
+                "symbols": []
+            }
+        },
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "favorite_count": 2,
+        "entities": {
+            "hashtags": [],
+            "urls": [
+                {
+                    "url": "https://t.co/iqjEfM3TCj",
+                    "expanded_url": "https://twitter.com/i/web/status/1332216344788529152",
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "indices": [
+                        116,
+                        139
+                    ]
+                }
+            ],
+            "user_mentions": [],
+            "symbols": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "filter_level": "low",
+        "lang": "nl",
+        "matching_rules": [
+            {
+                "tag": null
+            }
+        ]
+    },
+    {
+        "created_at": "Thu Nov 26 22:34:58 +0000 2020",
+        "id": 1332090496680914945,
+        "id_str": "1332090496680914945",
+        "text": "Oh, Tim Engelbart zit nu ook in het linkse complot! https://t.co/34c7zrQ8Cw",
+        "display_text_range": [
+            0,
+            51
+        ],
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 233199753,
+            "id_str": "233199753",
+            "name": "Elianne van Turennout",
+            "screen_name": "EliannevT",
+            "location": "The Netherlands",
+            "url": "https://elianne.werkaandemuur.nl/nl",
+            "description": "Die muts die een teddybeer lid maakte van Forum voor Democratie. Zegt blijkbaar zinnige dingen soms. Oh ja, ik ben ook fotograaf/fotomanipulatie artiest.",
+            "translator_type": "none",
+            "protected": false,
+            "verified": false,
+            "followers_count": 1286,
+            "friends_count": 517,
+            "listed_count": 8,
+            "favourites_count": 89914,
+            "statuses_count": 38957,
+            "created_at": "Sun Jan 02 15:51:51 +0000 2011",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "1A1B1F",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+            "profile_background_tile": false,
+            "profile_link_color": "2FC2EF",
+            "profile_sidebar_border_color": "181A1E",
+            "profile_sidebar_fill_color": "252429",
+            "profile_text_color": "666666",
+            "profile_use_background_image": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1313574059054170113/j7mPwBuQ_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1313574059054170113/j7mPwBuQ_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/233199753/1533905788",
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": {
+            "id": "1b6ebeaa6394f50e",
+            "url": "https://api.twitter.com/1.1/geo/id/1b6ebeaa6394f50e.json",
+            "place_type": "city",
+            "name": "Groningen",
+            "full_name": "Groningen, Nederland",
+            "country_code": "NL",
+            "country": "The Netherlands",
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            6.46262,
+                            53.178577
+                        ],
+                        [
+                            6.46262,
+                            53.264905
+                        ],
+                        [
+                            6.666928,
+                            53.264905
+                        ],
+                        [
+                            6.666928,
+                            53.178577
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "contributors": null,
+        "quoted_status_id": 1331966709041827840,
+        "quoted_status_id_str": "1331966709041827840",
+        "quoted_status": {
+            "created_at": "Thu Nov 26 14:23:04 +0000 2020",
+            "id": 1331966709041827840,
+            "id_str": "1331966709041827840",
+            "text": "Thierry Baudet hoort niet thuis in de Tweede Kamer, maar in een psychiatrische kliniek https://t.co/AJDhIvrJgY",
+            "source": "<a href=\"https://dlvrit.com/\" rel=\"nofollow\">dlvr.it</a>",
+            "truncated": false,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 88406498,
+                "id_str": "88406498",
+                "name": "Dagelijkse Standaard",
+                "screen_name": "DDStandaard",
+                "location": "Nederland",
+                "url": "http://www.dagelijksestandaard.nl/",
+                "description": "De Dagelijkse Standaard. No-nonsense en betrouwbaar",
+                "translator_type": "none",
+                "protected": false,
+                "verified": false,
+                "followers_count": 17366,
+                "friends_count": 489,
+                "listed_count": 182,
+                "favourites_count": 70,
+                "statuses_count": 82262,
+                "created_at": "Sun Nov 08 12:13:28 +0000 2009",
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": true,
+                "profile_link_color": "0A0D7E",
+                "profile_sidebar_border_color": "FFFFFF",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/704096669793652736/FvO90dPF_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/704096669793652736/FvO90dPF_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/88406498/1479556281",
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": null,
+                "follow_request_sent": null,
+                "notifications": null
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "quote_count": 43,
+            "reply_count": 77,
+            "retweet_count": 9,
+            "favorite_count": 65,
+            "entities": {
+                "hashtags": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/AJDhIvrJgY",
+                        "expanded_url": "https://www.dagelijksestandaard.nl/2020/11/thierry-baudet-hoort-niet-thuis-in-de-tweede-kamer-maar-in-een-psychiatrische-kliniek/?utm_source=dlvr.it&utm_medium=twitter",
+                        "display_url": "dagelijksestandaard.nl/2020/11/thierr\u2026",
+                        "indices": [
+                            87,
+                            110
+                        ]
+                    }
+                ],
+                "user_mentions": [],
+                "symbols": []
+            },
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "filter_level": "low",
+            "lang": "nl"
+        },
+        "quoted_status_permalink": {
+            "url": "https://t.co/34c7zrQ8Cw",
+            "expanded": "https://twitter.com/DDStandaard/status/1331966709041827840",
+            "display": "twitter.com/DDStandaard/st\u2026"
+        },
+        "is_quote_status": true,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0,
+        "favorite_count": 1,
+        "entities": {
+            "hashtags": [],
+            "urls": [
+                {
+                    "url": "https://t.co/34c7zrQ8Cw",
+                    "expanded_url": "https://twitter.com/DDStandaard/status/1331966709041827840",
+                    "display_url": "twitter.com/DDStandaard/st\u2026",
+                    "indices": [
+                        52,
+                        75
+                    ]
+                }
+            ],
+            "user_mentions": [],
+            "symbols": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "filter_level": "low",
+        "lang": "nl",
+        "matching_rules": [
+            {
+                "tag": null
+            }
+        ]
+    },
+    {
+        "created_at": "Thu Nov 26 18:19:14 +0000 2020",
+        "id": 1332026139087409158,
+        "id_str": "1332026139087409158",
+        "text": "Zoon van Ferd Grapperhaus zit dus bij het WEF van Klaus Schwab \n\nSmall world isn\u2019t it \ud83d\ude09 https://t.co/8ds0kYZX3c",
+        "display_text_range": [
+            0,
+            87
+        ],
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 955060653017968640,
+            "id_str": "955060653017968640",
+            "name": "Mieke van Agtmael",
+            "screen_name": "AgtmaelMieke",
+            "location": "Amsterdam, Nederland",
+            "url": null,
+            "description": null,
+            "translator_type": "none",
+            "protected": false,
+            "verified": false,
+            "followers_count": 202,
+            "friends_count": 294,
+            "listed_count": 0,
+            "favourites_count": 7595,
+            "statuses_count": 9561,
+            "created_at": "Sun Jan 21 12:52:58 +0000 2018",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": "",
+            "profile_background_image_url_https": "",
+            "profile_background_tile": false,
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1147261950134542336/YFwsF5f5_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1147261950134542336/YFwsF5f5_normal.jpg",
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": {
+            "id": "99cdab25eddd6bce",
+            "url": "https://api.twitter.com/1.1/geo/id/99cdab25eddd6bce.json",
+            "place_type": "city",
+            "name": "Amsterdam",
+            "full_name": "Amsterdam, The Netherlands",
+            "country_code": "NL",
+            "country": "The Netherlands",
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            4.7289,
+                            52.278227
+                        ],
+                        [
+                            4.7289,
+                            52.431229
+                        ],
+                        [
+                            5.079207,
+                            52.431229
+                        ],
+                        [
+                            5.079207,
+                            52.278227
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "contributors": null,
+        "is_quote_status": false,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "favorite_count": 1,
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [],
+            "symbols": [],
+            "media": [
+                {
+                    "id": 1332026135044034562,
+                    "id_str": "1332026135044034562",
+                    "indices": [
+                        88,
+                        111
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EnxOtmLWEAI8Ff-.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EnxOtmLWEAI8Ff-.jpg",
+                    "url": "https://t.co/8ds0kYZX3c",
+                    "display_url": "pic.twitter.com/8ds0kYZX3c",
+                    "expanded_url": "https://twitter.com/AgtmaelMieke/status/1332026139087409158/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 526,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 1080,
+                            "h": 835,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1080,
+                            "h": 835,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1332026135044034562,
+                    "id_str": "1332026135044034562",
+                    "indices": [
+                        88,
+                        111
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/EnxOtmLWEAI8Ff-.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/EnxOtmLWEAI8Ff-.jpg",
+                    "url": "https://t.co/8ds0kYZX3c",
+                    "display_url": "pic.twitter.com/8ds0kYZX3c",
+                    "expanded_url": "https://twitter.com/AgtmaelMieke/status/1332026139087409158/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 526,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 1080,
+                            "h": 835,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1080,
+                            "h": 835,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "filter_level": "low",
+        "lang": "nl",
+        "matching_rules": [
+            {
+                "tag": null
+            }
+        ]
+    },
+    {
+        "created_at": "Thu Nov 26 13:27:29 +0000 2020",
+        "id": 1331952720220188673,
+        "id_str": "1331952720220188673",
+        "text": "https://t.co/sKfatWjYIR",
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1328300298675384322,
+            "id_str": "1328300298675384322",
+            "name": "Thomas Worms",
+            "screen_name": "ThomasWorms11",
+            "location": null,
+            "url": null,
+            "description": null,
+            "translator_type": "none",
+            "protected": false,
+            "verified": false,
+            "followers_count": 239,
+            "friends_count": 1863,
+            "listed_count": 0,
+            "favourites_count": 806,
+            "statuses_count": 4374,
+            "created_at": "Mon Nov 16 11:34:16 +0000 2020",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": "",
+            "profile_background_image_url_https": "",
+            "profile_background_tile": false,
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1328322190262067200/FxFIsWHL_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1328322190262067200/FxFIsWHL_normal.jpg",
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": {
+            "id": "8cb67e5457853086",
+            "url": "https://api.twitter.com/1.1/geo/id/8cb67e5457853086.json",
+            "place_type": "city",
+            "name": "The Hague",
+            "full_name": "The Hague, The Netherlands",
+            "country_code": "NL",
+            "country": "The Netherlands",
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            4.190347,
+                            52.014871
+                        ],
+                        [
+                            4.190347,
+                            52.138865
+                        ],
+                        [
+                            4.422444,
+                            52.138865
+                        ],
+                        [
+                            4.422444,
+                            52.014871
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "contributors": null,
+        "is_quote_status": false,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+            "hashtags": [],
+            "urls": [
+                {
+                    "url": "https://t.co/sKfatWjYIR",
+                    "expanded_url": "https://www.xandernieuws.net/algemeen/regering-voert-agenda-klaus-schwab-wef-uit-over-10-jaar-bezit-u-niets-meer/",
+                    "display_url": "xandernieuws.net/algemeen/reger\u2026",
+                    "indices": [
+                        0,
+                        23
+                    ]
+                }
+            ],
+            "user_mentions": [],
+            "symbols": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "filter_level": "low",
+        "lang": "und",
+        "matching_rules": [
+            {
+                "tag": null
+            }
+        ]
+    },
+    {
+        "created_at": "Thu Nov 26 13:26:50 +0000 2020",
+        "id": 1331952556579430400,
+        "id_str": "1331952556579430400",
+        "text": "https://t.co/q8q4q7vi1X",
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1328300298675384322,
+            "id_str": "1328300298675384322",
+            "name": "Thomas Worms",
+            "screen_name": "ThomasWorms11",
+            "location": null,
+            "url": null,
+            "description": null,
+            "translator_type": "none",
+            "protected": false,
+            "verified": false,
+            "followers_count": 239,
+            "friends_count": 1863,
+            "listed_count": 0,
+            "favourites_count": 806,
+            "statuses_count": 4374,
+            "created_at": "Mon Nov 16 11:34:16 +0000 2020",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": "",
+            "profile_background_image_url_https": "",
+            "profile_background_tile": false,
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1328322190262067200/FxFIsWHL_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1328322190262067200/FxFIsWHL_normal.jpg",
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": {
+            "id": "8cb67e5457853086",
+            "url": "https://api.twitter.com/1.1/geo/id/8cb67e5457853086.json",
+            "place_type": "city",
+            "name": "The Hague",
+            "full_name": "The Hague, The Netherlands",
+            "country_code": "NL",
+            "country": "The Netherlands",
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            4.190347,
+                            52.014871
+                        ],
+                        [
+                            4.190347,
+                            52.138865
+                        ],
+                        [
+                            4.422444,
+                            52.138865
+                        ],
+                        [
+                            4.422444,
+                            52.014871
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "contributors": null,
+        "is_quote_status": false,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+            "hashtags": [],
+            "urls": [
+                {
+                    "url": "https://t.co/q8q4q7vi1X",
+                    "expanded_url": "https://www.weforum.org/about/klaus-schwab/",
+                    "display_url": "weforum.org/about/klaus-sc\u2026",
+                    "indices": [
+                        0,
+                        23
+                    ]
+                }
+            ],
+            "user_mentions": [],
+            "symbols": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "filter_level": "low",
+        "lang": "und",
+        "matching_rules": [
+            {
+                "tag": null
+            }
+        ]
+    },
+    {
+        "created_at": "Wed Nov 25 14:40:20 +0000 2020",
+        "id": 1331608664822738944,
+        "id_str": "1331608664822738944",
+        "text": "@__Arjen__ @wout_willemsen @tpreintjes @fvdemocratie @thierrybaudet LPF 2.0",
+        "display_text_range": [
+            68,
+            75
+        ],
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 1331607967687471107,
+        "in_reply_to_status_id_str": "1331607967687471107",
+        "in_reply_to_user_id": 123666091,
+        "in_reply_to_user_id_str": "123666091",
+        "in_reply_to_screen_name": "6tx_ZBoeB67QPbM",
+        "user": {
+            "id": 25825959,
+            "id_str": "25825959",
+            "name": "Marc van der Gracht \u2696\ufe0f",
+            "screen_name": "MarcGr8",
+            "location": "Brabantse Wal",
+            "url": "http://stichtingvoordezorg.nl",
+            "description": "#MPUverpleegkundige #PAAZjurist #Bluesharpreus #Draadjesvomeerder #VBHCriticus #vaccineerpleeg",
+            "translator_type": "none",
+            "protected": false,
+            "verified": false,
+            "followers_count": 1611,
+            "friends_count": 1838,
+            "listed_count": 19,
+            "favourites_count": 26979,
+            "statuses_count": 11202,
+            "created_at": "Sun Mar 22 14:51:55 +0000 2009",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1282064244884877312/_7Efg8KS_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1282064244884877312/_7Efg8KS_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/25825959/1488115501",
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": {
+            "id": "555d6b4e2f6a18f6",
+            "url": "https://api.twitter.com/1.1/geo/id/555d6b4e2f6a18f6.json",
+            "place_type": "city",
+            "name": "Bergen op Zoom",
+            "full_name": "Bergen op Zoom, Nederland",
+            "country_code": "NL",
+            "country": "The Netherlands",
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            4.218635,
+                            51.439689
+                        ],
+                        [
+                            4.218635,
+                            51.57054
+                        ],
+                        [
+                            4.37275,
+                            51.57054
+                        ],
+                        [
+                            4.37275,
+                            51.439689
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "contributors": null,
+        "is_quote_status": false,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "wout_willemsen",
+                    "name": "Wout Willemsen",
+                    "id": 1203886801,
+                    "id_str": "1203886801",
+                    "indices": [
+                        11,
+                        26
+                    ]
+                },
+                {
+                    "screen_name": "tpreintjes",
+                    "name": "Tanja Reintjes",
+                    "id": 2493182353,
+                    "id_str": "2493182353",
+                    "indices": [
+                        27,
+                        38
+                    ]
+                },
+                {
+                    "screen_name": "fvdemocratie",
+                    "name": "Forum voor Democratie",
+                    "id": 2822530175,
+                    "id_str": "2822530175",
+                    "indices": [
+                        39,
+                        52
+                    ]
+                },
+                {
+                    "screen_name": "thierrybaudet",
+                    "name": "Thierry Baudet",
+                    "id": 367703310,
+                    "id_str": "367703310",
+                    "indices": [
+                        53,
+                        67
+                    ]
+                }
+            ],
+            "symbols": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "filter_level": "low",
+        "lang": "und",
+        "matching_rules": [
+            {
+                "tag": null
+            }
+        ]
+    },
+    {
+        "created_at": "Wed Nov 25 14:34:52 +0000 2020",
+        "id": 1331607287367086083,
+        "id_str": "1331607287367086083",
+        "text": "@wout_willemsen @tpreintjes @fvdemocratie @thierrybaudet Leiderschap, Wout. Dit gebeurt allemaal onder het leidersc\u2026 https://t.co/mzRBmJXcT8",
+        "display_text_range": [
+            57,
+            140
+        ],
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "truncated": true,
+        "in_reply_to_status_id": 1331604339824222208,
+        "in_reply_to_status_id_str": "1331604339824222208",
+        "in_reply_to_user_id": 1203886801,
+        "in_reply_to_user_id_str": "1203886801",
+        "in_reply_to_screen_name": "wout_willemsen",
+        "user": {
+            "id": 25825959,
+            "id_str": "25825959",
+            "name": "Marc van der Gracht \u2696\ufe0f",
+            "screen_name": "MarcGr8",
+            "location": "Brabantse Wal",
+            "url": "http://stichtingvoordezorg.nl",
+            "description": "#MPUverpleegkundige #PAAZjurist #Bluesharpreus #Draadjesvomeerder #VBHCriticus #vaccineerpleeg",
+            "translator_type": "none",
+            "protected": false,
+            "verified": false,
+            "followers_count": 1611,
+            "friends_count": 1838,
+            "listed_count": 19,
+            "favourites_count": 26979,
+            "statuses_count": 11202,
+            "created_at": "Sun Mar 22 14:51:55 +0000 2009",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1282064244884877312/_7Efg8KS_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1282064244884877312/_7Efg8KS_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/25825959/1488115501",
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": {
+            "id": "555d6b4e2f6a18f6",
+            "url": "https://api.twitter.com/1.1/geo/id/555d6b4e2f6a18f6.json",
+            "place_type": "city",
+            "name": "Bergen op Zoom",
+            "full_name": "Bergen op Zoom, Nederland",
+            "country_code": "NL",
+            "country": "The Netherlands",
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            4.218635,
+                            51.439689
+                        ],
+                        [
+                            4.218635,
+                            51.57054
+                        ],
+                        [
+                            4.37275,
+                            51.57054
+                        ],
+                        [
+                            4.37275,
+                            51.439689
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "contributors": null,
+        "is_quote_status": false,
+        "extended_tweet": {
+            "full_text": "@wout_willemsen @tpreintjes @fvdemocratie @thierrybaudet Leiderschap, Wout. Dit gebeurt allemaal onder het leiderschap van Baudet. Deze man kan niet eens leiding geven aan zijn eigen jeugdhonk of partijgenoten bijsturen, dus zullen we hem maar niet de sleutel van BV Nederland geven?",
+            "display_text_range": [
+                57,
+                283
+            ],
+            "entities": {
+                "hashtags": [],
+                "urls": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "wout_willemsen",
+                        "name": "Wout Willemsen",
+                        "id": 1203886801,
+                        "id_str": "1203886801",
+                        "indices": [
+                            0,
+                            15
+                        ]
+                    },
+                    {
+                        "screen_name": "tpreintjes",
+                        "name": "Tanja Reintjes",
+                        "id": 2493182353,
+                        "id_str": "2493182353",
+                        "indices": [
+                            16,
+                            27
+                        ]
+                    },
+                    {
+                        "screen_name": "fvdemocratie",
+                        "name": "Forum voor Democratie",
+                        "id": 2822530175,
+                        "id_str": "2822530175",
+                        "indices": [
+                            28,
+                            41
+                        ]
+                    },
+                    {
+                        "screen_name": "thierrybaudet",
+                        "name": "Thierry Baudet",
+                        "id": 367703310,
+                        "id_str": "367703310",
+                        "indices": [
+                            42,
+                            56
+                        ]
+                    }
+                ],
+                "symbols": []
+            }
+        },
+        "quote_count": 0,
+        "reply_count": 5,
+        "retweet_count": 0,
+        "favorite_count": 5,
+        "entities": {
+            "hashtags": [],
+            "urls": [
+                {
+                    "url": "https://t.co/mzRBmJXcT8",
+                    "expanded_url": "https://twitter.com/i/web/status/1331607287367086083",
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ],
+            "user_mentions": [
+                {
+                    "screen_name": "wout_willemsen",
+                    "name": "Wout Willemsen",
+                    "id": 1203886801,
+                    "id_str": "1203886801",
+                    "indices": [
+                        0,
+                        15
+                    ]
+                },
+                {
+                    "screen_name": "tpreintjes",
+                    "name": "Tanja Reintjes",
+                    "id": 2493182353,
+                    "id_str": "2493182353",
+                    "indices": [
+                        16,
+                        27
+                    ]
+                },
+                {
+                    "screen_name": "fvdemocratie",
+                    "name": "Forum voor Democratie",
+                    "id": 2822530175,
+                    "id_str": "2822530175",
+                    "indices": [
+                        28,
+                        41
+                    ]
+                },
+                {
+                    "screen_name": "thierrybaudet",
+                    "name": "Thierry Baudet",
+                    "id": 367703310,
+                    "id_str": "367703310",
+                    "indices": [
+                        42,
+                        56
+                    ]
+                }
+            ],
+            "symbols": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "filter_level": "low",
+        "lang": "nl",
+        "matching_rules": [
+            {
+                "tag": null
+            }
+        ]
+    },
+    {
+        "created_at": "Tue Nov 17 18:09:50 +0000 2020",
+        "id": 1328762283468738562,
+        "id_str": "1328762283468738562",
+        "text": "@hugodejonge steek die spuit maar in je reet. Met je nep virus. Volg de agenda van Bill Gates maar.",
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": 29785926,
+        "in_reply_to_user_id_str": "29785926",
+        "in_reply_to_screen_name": "hugodejonge",
+        "user": {
+            "id": 1248375876632395776,
+            "id_str": "1248375876632395776",
+            "name": "Dennis",
+            "screen_name": "DennisBitter187",
+            "location": "Amsterdam, Nederland",
+            "url": null,
+            "description": null,
+            "translator_type": "none",
+            "protected": false,
+            "verified": false,
+            "followers_count": 1,
+            "friends_count": 19,
+            "listed_count": 0,
+            "favourites_count": 0,
+            "statuses_count": 103,
+            "created_at": "Thu Apr 09 22:23:11 +0000 2020",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": "",
+            "profile_background_image_url_https": "",
+            "profile_background_tile": false,
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+            "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": {
+            "id": "99cdab25eddd6bce",
+            "url": "https://api.twitter.com/1.1/geo/id/99cdab25eddd6bce.json",
+            "place_type": "city",
+            "name": "Amsterdam",
+            "full_name": "Amsterdam, The Netherlands",
+            "country_code": "NL",
+            "country": "The Netherlands",
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            4.7289,
+                            52.278227
+                        ],
+                        [
+                            4.7289,
+                            52.431229
+                        ],
+                        [
+                            5.079207,
+                            52.431229
+                        ],
+                        [
+                            5.079207,
+                            52.278227
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "contributors": null,
+        "is_quote_status": false,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "hugodejonge",
+                    "name": "Hugo de Jonge",
+                    "id": 29785926,
+                    "id_str": "29785926",
+                    "indices": [
+                        0,
+                        12
+                    ]
+                }
+            ],
+            "symbols": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "filter_level": "low",
+        "lang": "nl",
+        "matching_rules": [
+            {
+                "tag": null
+            }
+        ]
+    },
+    {
+        "created_at": "Tue Nov 17 00:57:59 +0000 2020",
+        "id": 1328502610500988929,
+        "id_str": "1328502610500988929",
+        "text": "Mark Rutte, Hugo de Jonge, Jaap van Dissel and the rest are dirty child pedophile murderers, you had to know what i\u2026 https://t.co/QjqwRBhyyK",
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "truncated": true,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1212438352051363841,
+            "id_str": "1212438352051363841",
+            "name": "Sandra",
+            "screen_name": "Sandra94191353",
+            "location": null,
+            "url": null,
+            "description": "Ik hou van berichten",
+            "translator_type": "none",
+            "protected": false,
+            "verified": false,
+            "followers_count": 2,
+            "friends_count": 15,
+            "listed_count": 0,
+            "favourites_count": 68,
+            "statuses_count": 83,
+            "created_at": "Wed Jan 01 18:20:18 +0000 2020",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": "",
+            "profile_background_image_url_https": "",
+            "profile_background_tile": false,
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1212438688556302338/kj89FFMa_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1212438688556302338/kj89FFMa_normal.jpg",
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": {
+            "id": "ea0a61fa0c646676",
+            "url": "https://api.twitter.com/1.1/geo/id/ea0a61fa0c646676.json",
+            "place_type": "city",
+            "name": "Rotterdam",
+            "full_name": "Rotterdam, The Netherlands",
+            "country_code": "NL",
+            "country": "The Netherlands",
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            3.941836,
+                            51.842113
+                        ],
+                        [
+                            3.941836,
+                            52.006802
+                        ],
+                        [
+                            4.601379,
+                            52.006802
+                        ],
+                        [
+                            4.601379,
+                            51.842113
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "contributors": null,
+        "is_quote_status": false,
+        "extended_tweet": {
+            "full_text": "Mark Rutte, Hugo de Jonge, Jaap van Dissel and the rest are dirty child pedophile murderers, you had to know what is happening behind the cabinet government and their want to inject the whole of the Netherlands with vaccine on behalf of bill gates, their work by a  their agenda.",
+            "display_text_range": [
+                0,
+                279
+            ],
+            "entities": {
+                "hashtags": [],
+                "urls": [],
+                "user_mentions": [],
+                "symbols": []
+            }
+        },
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+            "hashtags": [],
+            "urls": [
+                {
+                    "url": "https://t.co/QjqwRBhyyK",
+                    "expanded_url": "https://twitter.com/i/web/status/1328502610500988929",
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ],
+            "user_mentions": [],
+            "symbols": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "filter_level": "low",
+        "lang": "en",
+        "matching_rules": [
+            {
+                "tag": null
+            }
+        ]
+    },
+    {
+        "created_at": "Sat Nov 14 11:25:52 +0000 2020",
+        "id": 1327573461254934528,
+        "id_str": "1327573461254934528",
+        "text": "@Auster13525913 \u00c9n Bill Gates doet in derdewereld landen ook heel veel goeds met vaccinaties en voedselhulp. De man\u2026 https://t.co/oSRhwb82hf",
+        "display_text_range": [
+            16,
+            140
+        ],
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "truncated": true,
+        "in_reply_to_status_id": 1327567020574052359,
+        "in_reply_to_status_id_str": "1327567020574052359",
+        "in_reply_to_user_id": 1024875516472516609,
+        "in_reply_to_user_id_str": "1024875516472516609",
+        "in_reply_to_screen_name": "Auster13525913",
+        "user": {
+            "id": 122771831,
+            "id_str": "122771831",
+            "name": "Atie S. #teamN\u2b55S \ud83c\udf84\u26c4\ud83c\uddea\ud83c\uddfa",
+            "screen_name": "alsje",
+            "location": null,
+            "url": null,
+            "description": "Oud lerares. Humor! Hou van mensen, eerlijkheid , dieren-ook de kleintjes-, natuur. Lezen. Heb hekel aan racisten, fascisten en opportunisten.\ud83d\udc9a",
+            "translator_type": "none",
+            "protected": false,
+            "verified": false,
+            "followers_count": 740,
+            "friends_count": 1273,
+            "listed_count": 1,
+            "favourites_count": 60566,
+            "statuses_count": 14787,
+            "created_at": "Sat Mar 13 21:18:33 +0000 2010",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1182714916479913986/GtNE1wJ6_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1182714916479913986/GtNE1wJ6_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/122771831/1600355778",
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": {
+            "id": "5f301ce6c5adfac2",
+            "url": "https://api.twitter.com/1.1/geo/id/5f301ce6c5adfac2.json",
+            "place_type": "city",
+            "name": "Weststellingwerf",
+            "full_name": "Weststellingwerf, Nederland",
+            "country_code": "NL",
+            "country": "The Netherlands",
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            5.81812,
+                            52.800718
+                        ],
+                        [
+                            5.81812,
+                            52.942945
+                        ],
+                        [
+                            6.247202,
+                            52.942945
+                        ],
+                        [
+                            6.247202,
+                            52.800718
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "contributors": null,
+        "is_quote_status": false,
+        "extended_tweet": {
+            "full_text": "@Auster13525913 \u00c9n Bill Gates doet in derdewereld landen ook heel veel goeds met vaccinaties en voedselhulp. De man heeft veel geld, maar in tegenstelling met andere rijkaards geeft hij miljarden weg aan goede doelen. Echt super h\u00e9! \ud83e\udd29",
+            "display_text_range": [
+                16,
+                234
+            ],
+            "entities": {
+                "hashtags": [],
+                "urls": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "Auster13525913",
+                        "name": "Auster",
+                        "id": 1024875516472516609,
+                        "id_str": "1024875516472516609",
+                        "indices": [
+                            0,
+                            15
+                        ]
+                    }
+                ],
+                "symbols": []
+            }
+        },
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+            "hashtags": [],
+            "urls": [
+                {
+                    "url": "https://t.co/oSRhwb82hf",
+                    "expanded_url": "https://twitter.com/i/web/status/1327573461254934528",
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ],
+            "user_mentions": [
+                {
+                    "screen_name": "Auster13525913",
+                    "name": "Auster",
+                    "id": 1024875516472516609,
+                    "id_str": "1024875516472516609",
+                    "indices": [
+                        0,
+                        15
+                    ]
+                }
+            ],
+            "symbols": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "filter_level": "low",
+        "lang": "nl",
+        "matching_rules": [
+            {
+                "tag": null
+            }
+        ]
+    },
+    {
+        "created_at": "Fri Nov 13 11:16:10 +0000 2020",
+        "id": 1327208629863403520,
+        "id_str": "1327208629863403520",
+        "text": "@JoeBiden @klaus_schwab You're not chosen and yoy never wil! Bye-den \ud83d\udc4b",
+        "display_text_range": [
+            24,
+            70
+        ],
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 1325118992785223682,
+        "in_reply_to_status_id_str": "1325118992785223682",
+        "in_reply_to_user_id": 939091,
+        "in_reply_to_user_id_str": "939091",
+        "in_reply_to_screen_name": "JoeBiden",
+        "user": {
+            "id": 920916740732801024,
+            "id_str": "920916740732801024",
+            "name": "\ud83c\uddf3\ud83c\uddf1Marcel4Trump",
+            "screen_name": "BerkhofMarcel",
+            "location": "The Netherlands",
+            "url": "https://www.facebook.com/marcel.berkhof.9",
+            "description": "\ud83c\uddf3\ud83c\uddf1Guy proud patriot \nSUPPORT NEXIT A.Jones/D.Trump. ANTI:Hollyweird/NWO/CABAL/ELITES/WHO/RIVM!\n\n#stopdelockdown #stopcoronahoax\n#novaccin\n\nVrijheidstrijder \ud83d\udc4a",
+            "translator_type": "none",
+            "protected": false,
+            "verified": false,
+            "followers_count": 2515,
+            "friends_count": 4917,
+            "listed_count": 2,
+            "favourites_count": 23790,
+            "statuses_count": 30810,
+            "created_at": "Thu Oct 19 07:37:15 +0000 2017",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_link_color": "0C3866",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/922483083475083264/ANYkze8p_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/922483083475083264/ANYkze8p_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/920916740732801024/1508772142",
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": {
+            "id": "fec750e635427c4d",
+            "url": "https://api.twitter.com/1.1/geo/id/fec750e635427c4d.json",
+            "place_type": "city",
+            "name": "Heerlen",
+            "full_name": "Heerlen, Nederland",
+            "country_code": "NL",
+            "country": "The Netherlands",
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            5.895459,
+                            50.818364
+                        ],
+                        [
+                            5.895459,
+                            50.936387
+                        ],
+                        [
+                            6.026377,
+                            50.936387
+                        ],
+                        [
+                            6.026377,
+                            50.818364
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "contributors": null,
+        "is_quote_status": false,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0,
+        "favorite_count": 3,
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "JoeBiden",
+                    "name": "Joe Biden",
+                    "id": 939091,
+                    "id_str": "939091",
+                    "indices": [
+                        0,
+                        9
+                    ]
+                },
+                {
+                    "screen_name": "klaus_schwab",
+                    "name": "Klaus Schwab",
+                    "id": 154453696,
+                    "id_str": "154453696",
+                    "indices": [
+                        10,
+                        23
+                    ]
+                }
+            ],
+            "symbols": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "filter_level": "low",
+        "lang": "en",
+        "matching_rules": [
+            {
+                "tag": null
+            }
+        ]
+    },
+    {
+        "created_at": "Wed Nov 04 10:03:21 +0000 2020",
+        "id": 1323928814834122753,
+        "id_str": "1323928814834122753",
+        "text": "Economie blijkt belangrijker dan raciale kwesties en covid die Democraten op agenda plaatsten. Na Hillary die elect\u2026 https://t.co/RhXuPte6au",
+        "display_text_range": [
+            0,
+            140
+        ],
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "truncated": true,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 18100425,
+            "id_str": "18100425",
+            "name": "markkoster",
+            "screen_name": "markkoster",
+            "location": "Amsterdam, The Netherlands",
+            "url": null,
+            "description": "It's the economy, stupid, or lack of humor. Dogmatisch Steely Dan Fan, maar zeer vrijzinnig protestant. Journalist/auteur, documentairemaker, matige rechtsback",
+            "translator_type": "none",
+            "protected": false,
+            "verified": false,
+            "followers_count": 6110,
+            "friends_count": 4228,
+            "listed_count": 94,
+            "favourites_count": 654,
+            "statuses_count": 7673,
+            "created_at": "Sat Dec 13 16:26:00 +0000 2008",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1003521694223433729/Sdj8Vk9E_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1003521694223433729/Sdj8Vk9E_normal.jpg",
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": {
+            "id": "99cdab25eddd6bce",
+            "url": "https://api.twitter.com/1.1/geo/id/99cdab25eddd6bce.json",
+            "place_type": "city",
+            "name": "Amsterdam",
+            "full_name": "Amsterdam, The Netherlands",
+            "country_code": "NL",
+            "country": "The Netherlands",
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            4.7289,
+                            52.278227
+                        ],
+                        [
+                            4.7289,
+                            52.431229
+                        ],
+                        [
+                            5.079207,
+                            52.431229
+                        ],
+                        [
+                            5.079207,
+                            52.278227
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "contributors": null,
+        "quoted_status_id": 1321035931894370304,
+        "quoted_status_id_str": "1321035931894370304",
+        "quoted_status": {
+            "created_at": "Tue Oct 27 10:28:04 +0000 2020",
+            "id": 1321035931894370304,
+            "id_str": "1321035931894370304",
+            "text": "Trump haters opgelet. Als u zich als belegger had laten leiden door afschuw, kostte dat geld. Trump bracht voorspoe\u2026 https://t.co/gBnrX6sqwd",
+            "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+            "truncated": true,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 18100425,
+                "id_str": "18100425",
+                "name": "markkoster",
+                "screen_name": "markkoster",
+                "location": "Amsterdam, The Netherlands",
+                "url": null,
+                "description": "It's the economy, stupid, or lack of humor. Dogmatisch Steely Dan Fan, maar zeer vrijzinnig protestant. Journalist/auteur, documentairemaker, matige rechtsback",
+                "translator_type": "none",
+                "protected": false,
+                "verified": false,
+                "followers_count": 6110,
+                "friends_count": 4228,
+                "listed_count": 94,
+                "favourites_count": 654,
+                "statuses_count": 7673,
+                "created_at": "Sat Dec 13 16:26:00 +0000 2008",
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": true,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1003521694223433729/Sdj8Vk9E_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1003521694223433729/Sdj8Vk9E_normal.jpg",
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": null,
+                "follow_request_sent": null,
+                "notifications": null
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "extended_tweet": {
+                "full_text": "Trump haters opgelet. Als u zich als belegger had laten leiden door afschuw, kostte dat geld. Trump bracht voorspoed, zeggen George Raven van @InsingerGilissn en @koenpetersen. Petersen noemt hem een frikandel: je wilt niet weten hoe het gemaakt wordt. https://t.co/7cqxgbGzUl",
+                "display_text_range": [
+                    0,
+                    276
+                ],
+                "entities": {
+                    "hashtags": [],
+                    "urls": [
+                        {
+                            "url": "https://t.co/7cqxgbGzUl",
+                            "expanded_url": "https://soundcloud.com/user-494023882/mkxigv2-mixdown",
+                            "display_url": "soundcloud.com/user-494023882\u2026",
+                            "indices": [
+                                253,
+                                276
+                            ]
+                        }
+                    ],
+                    "user_mentions": [
+                        {
+                            "screen_name": "InsingerGilissn",
+                            "name": "InsingerGilissen",
+                            "id": 288181917,
+                            "id_str": "288181917",
+                            "indices": [
+                                142,
+                                158
+                            ]
+                        },
+                        {
+                            "screen_name": "koenpetersen",
+                            "name": "Koen Petersen",
+                            "id": 46884567,
+                            "id_str": "46884567",
+                            "indices": [
+                                162,
+                                175
+                            ]
+                        }
+                    ],
+                    "symbols": []
+                }
+            },
+            "quote_count": 1,
+            "reply_count": 5,
+            "retweet_count": 1,
+            "favorite_count": 3,
+            "entities": {
+                "hashtags": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/gBnrX6sqwd",
+                        "expanded_url": "https://twitter.com/i/web/status/1321035931894370304",
+                        "display_url": "twitter.com/i/web/status/1\u2026",
+                        "indices": [
+                            117,
+                            140
+                        ]
+                    }
+                ],
+                "user_mentions": [],
+                "symbols": []
+            },
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "filter_level": "low",
+            "lang": "nl"
+        },
+        "quoted_status_permalink": {
+            "url": "https://t.co/80vZako4af",
+            "expanded": "https://twitter.com/markkoster/status/1321035931894370304",
+            "display": "twitter.com/markkoster/sta\u2026"
+        },
+        "is_quote_status": true,
+        "extended_tweet": {
+            "full_text": "Economie blijkt belangrijker dan raciale kwesties en covid die Democraten op agenda plaatsten. Na Hillary die electoraat haatte kost  identiteitsgekte Democraten wrs nu de kop. Had als Bill Clinton gedaan: it is the economy stupid. Stop met Trump haat en kom met beter verhaal. https://t.co/80vZako4af",
+            "display_text_range": [
+                0,
+                277
+            ],
+            "entities": {
+                "hashtags": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/80vZako4af",
+                        "expanded_url": "https://twitter.com/markkoster/status/1321035931894370304",
+                        "display_url": "twitter.com/markkoster/sta\u2026",
+                        "indices": [
+                            278,
+                            301
+                        ]
+                    }
+                ],
+                "user_mentions": [],
+                "symbols": []
+            }
+        },
+        "quote_count": 1,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "favorite_count": 4,
+        "entities": {
+            "hashtags": [],
+            "urls": [
+                {
+                    "url": "https://t.co/RhXuPte6au",
+                    "expanded_url": "https://twitter.com/i/web/status/1323928814834122753",
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ],
+            "user_mentions": [],
+            "symbols": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "filter_level": "low",
+        "lang": "nl",
+        "matching_rules": [
+            {
+                "tag": null
+            }
+        ]
+    },
+    {
+        "created_at": "Mon Nov 02 10:47:37 +0000 2020",
+        "id": 1323215180432637958,
+        "id_str": "1323215180432637958",
+        "text": "https://t.co/g3HXGRO3aj\nGrote fascistische reset.",
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1132634614470729734,
+            "id_str": "1132634614470729734",
+            "name": "Wiep\ud83d\ude9b\ud83c\udfbc\ud83c\udfb6 ook te vinden op gab.com/@jagerrmeister",
+            "screen_name": "Wiep13396680",
+            "location": "Friesland, Nederland",
+            "url": "https://youtu.be/Q3xfykmb3YQ",
+            "description": "Ouwe trucker, zeer verontrust.\nHoe toch met ons mooie Nederland. \nWat me blij maakt is mijn hobby,  muziek.\nhttps://youtu.be/Q3xfykmb3YQ",
+            "translator_type": "none",
+            "protected": false,
+            "verified": false,
+            "followers_count": 4899,
+            "friends_count": 5065,
+            "listed_count": 1,
+            "favourites_count": 61095,
+            "statuses_count": 136600,
+            "created_at": "Sun May 26 13:08:30 +0000 2019",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": "",
+            "profile_background_image_url_https": "",
+            "profile_background_tile": false,
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1132635645590016000/-sKx_4zw_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1132635645590016000/-sKx_4zw_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1132634614470729734/1575976389",
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": {
+            "id": "9379e3787e902946",
+            "url": "https://api.twitter.com/1.1/geo/id/9379e3787e902946.json",
+            "place_type": "city",
+            "name": "Kampen",
+            "full_name": "Kampen, Nederland",
+            "country_code": "NL",
+            "country": "The Netherlands",
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            5.777901,
+                            52.474
+                        ],
+                        [
+                            5.777901,
+                            52.628282
+                        ],
+                        [
+                            6.032911,
+                            52.628282
+                        ],
+                        [
+                            6.032911,
+                            52.474
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "contributors": null,
+        "is_quote_status": false,
+        "quote_count": 1,
+        "reply_count": 0,
+        "retweet_count": 3,
+        "favorite_count": 1,
+        "entities": {
+            "hashtags": [],
+            "urls": [
+                {
+                    "url": "https://t.co/g3HXGRO3aj",
+                    "expanded_url": "https://zeepertjenewsfeed.wordpress.com/2020/10/27/de-grote-fascistische-reset-u-wordt-een-transhuman-cyborg-world-economic-forums-klaus-schwab/",
+                    "display_url": "zeepertjenewsfeed.wordpress.com/2020/10/27/de-\u2026",
+                    "indices": [
+                        0,
+                        23
+                    ]
+                }
+            ],
+            "user_mentions": [],
+            "symbols": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "filter_level": "low",
+        "lang": "it",
+        "matching_rules": [
+            {
+                "tag": null
+            }
+        ]
+    },
+    {
+        "created_at": "Tue Oct 27 08:53:05 +0000 2020",
+        "id": 1321012027356315648,
+        "id_str": "1321012027356315648",
+        "text": "Regering voert agenda Klaus Schwab (WEF) uit: &amp;#8216;Over 10 jaar bezit u niets meer&amp;#8217; https://t.co/ylnqDZY1iU\u2026 https://t.co/zTDE5FcxSD",
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "truncated": true,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1132634614470729734,
+            "id_str": "1132634614470729734",
+            "name": "Wiep\ud83d\ude9b\ud83c\udfbc\ud83c\udfb6 ook te vinden op gab.com/@jagerrmeister",
+            "screen_name": "Wiep13396680",
+            "location": "Friesland, Nederland",
+            "url": "https://youtu.be/Q3xfykmb3YQ",
+            "description": "Ouwe trucker, zeer verontrust.\nHoe toch met ons mooie Nederland. \nWat me blij maakt is mijn hobby,  muziek.\nhttps://youtu.be/Q3xfykmb3YQ",
+            "translator_type": "none",
+            "protected": false,
+            "verified": false,
+            "followers_count": 4899,
+            "friends_count": 5065,
+            "listed_count": 1,
+            "favourites_count": 61095,
+            "statuses_count": 136600,
+            "created_at": "Sun May 26 13:08:30 +0000 2019",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": "",
+            "profile_background_image_url_https": "",
+            "profile_background_tile": false,
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1132635645590016000/-sKx_4zw_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1132635645590016000/-sKx_4zw_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1132634614470729734/1575976389",
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": {
+            "id": "b3244a3403a06f86",
+            "url": "https://api.twitter.com/1.1/geo/id/b3244a3403a06f86.json",
+            "place_type": "city",
+            "name": "Ooststellingwerf",
+            "full_name": "Ooststellingwerf, Nederland",
+            "country_code": "NL",
+            "country": "The Netherlands",
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            6.084837,
+                            52.906258
+                        ],
+                        [
+                            6.084837,
+                            53.075274
+                        ],
+                        [
+                            6.427625,
+                            53.075274
+                        ],
+                        [
+                            6.427625,
+                            52.906258
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "contributors": null,
+        "is_quote_status": false,
+        "extended_tweet": {
+            "full_text": "Regering voert agenda Klaus Schwab (WEF) uit: &amp;#8216;Over 10 jaar bezit u niets meer&amp;#8217; https://t.co/ylnqDZY1iU via @ThemesDNA\n@LidwienNews \n@dekoran1 \n@JohannesKingma",
+            "display_text_range": [
+                0,
+                179
+            ],
+            "entities": {
+                "hashtags": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/ylnqDZY1iU",
+                        "expanded_url": "https://www.xandernieuws.net/algemeen/regering-voert-agenda-klaus-schwab-wef-uit-over-10-jaar-bezit-u-niets-meer/",
+                        "display_url": "xandernieuws.net/algemeen/reger\u2026",
+                        "indices": [
+                            100,
+                            123
+                        ]
+                    }
+                ],
+                "user_mentions": [
+                    {
+                        "screen_name": "themesdna",
+                        "name": "ThemesDNA",
+                        "id": 3252537714,
+                        "id_str": "3252537714",
+                        "indices": [
+                            128,
+                            138
+                        ]
+                    },
+                    {
+                        "screen_name": "LidwienNews",
+                        "name": "@LidwienNews",
+                        "id": 1180862242763489287,
+                        "id_str": "1180862242763489287",
+                        "indices": [
+                            139,
+                            151
+                        ]
+                    },
+                    {
+                        "screen_name": "dekoran1",
+                        "name": "Bouchra",
+                        "id": 385886369,
+                        "id_str": "385886369",
+                        "indices": [
+                            153,
+                            162
+                        ]
+                    },
+                    {
+                        "screen_name": "JohannesKingma",
+                        "name": "Johannes Kingma \ud83d\ude4f\ud83d\udc22 Nederland is een pseudocratie",
+                        "id": 1254982834823069699,
+                        "id_str": "1254982834823069699",
+                        "indices": [
+                            164,
+                            179
+                        ]
+                    }
+                ],
+                "symbols": []
+            }
+        },
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 2,
+        "favorite_count": 0,
+        "entities": {
+            "hashtags": [],
+            "urls": [
+                {
+                    "url": "https://t.co/ylnqDZY1iU",
+                    "expanded_url": "https://www.xandernieuws.net/algemeen/regering-voert-agenda-klaus-schwab-wef-uit-over-10-jaar-bezit-u-niets-meer/",
+                    "display_url": "xandernieuws.net/algemeen/reger\u2026",
+                    "indices": [
+                        100,
+                        123
+                    ]
+                },
+                {
+                    "url": "https://t.co/zTDE5FcxSD",
+                    "expanded_url": "https://twitter.com/i/web/status/1321012027356315648",
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "indices": [
+                        125,
+                        148
+                    ]
+                }
+            ],
+            "user_mentions": [],
+            "symbols": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "filter_level": "low",
+        "lang": "nl",
+        "matching_rules": [
+            {
+                "tag": null
+            }
+        ]
+    },
+    {
+        "created_at": "Thu Sep 24 21:05:10 +0000 2020",
+        "id": 1309237464901484547,
+        "id_str": "1309237464901484547",
+        "text": "@markrutte wat een slechte minister president ben jij. Politiek draaien en liegen. Je verdiept je in weinig zaken.\u2026 https://t.co/3ngDDq4R8R",
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "truncated": true,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": 16708728,
+        "in_reply_to_user_id_str": "16708728",
+        "in_reply_to_screen_name": "markrutte",
+        "user": {
+            "id": 227236039,
+            "id_str": "227236039",
+            "name": "Ozark",
+            "screen_name": "manfredosz",
+            "location": "Provence-Alpes-C\u00f4te d'Azur",
+            "url": null,
+            "description": "Main stream media have no interest in informing you with facts, they\u2019re propaganda machines; brainwashing and funneling your perception. Use your logical sense",
+            "translator_type": "none",
+            "protected": false,
+            "verified": false,
+            "followers_count": 66,
+            "friends_count": 60,
+            "listed_count": 1,
+            "favourites_count": 726,
+            "statuses_count": 1746,
+            "created_at": "Thu Dec 16 08:26:30 +0000 2010",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1345281186466295808/rfj5WBk1_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1345281186466295808/rfj5WBk1_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/227236039/1609499957",
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": {
+            "id": "8d86d7237a5ce3d7",
+            "url": "https://api.twitter.com/1.1/geo/id/8d86d7237a5ce3d7.json",
+            "place_type": "city",
+            "name": "Helmond",
+            "full_name": "Helmond, Nederland",
+            "country_code": "NL",
+            "country": "The Netherlands",
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            5.570117,
+                            51.437988
+                        ],
+                        [
+                            5.570117,
+                            51.50921
+                        ],
+                        [
+                            5.736092,
+                            51.50921
+                        ],
+                        [
+                            5.736092,
+                            51.437988
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "contributors": null,
+        "is_quote_status": false,
+        "extended_tweet": {
+            "full_text": "@markrutte wat een slechte minister president ben jij. Politiek draaien en liegen. Je verdiept je in weinig zaken.  Bevalt het je om achter Bill Gates en Klaus Schwab aan te hobbelen? Geven zij instructies? En jij de loopjongen? Je verraad het volk!",
+            "display_text_range": [
+                0,
+                249
+            ],
+            "entities": {
+                "hashtags": [],
+                "urls": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "markrutte",
+                        "name": "Mark Rutte",
+                        "id": 16708728,
+                        "id_str": "16708728",
+                        "indices": [
+                            0,
+                            10
+                        ]
+                    }
+                ],
+                "symbols": []
+            }
+        },
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+            "hashtags": [],
+            "urls": [
+                {
+                    "url": "https://t.co/3ngDDq4R8R",
+                    "expanded_url": "https://twitter.com/i/web/status/1309237464901484547",
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "indices": [
+                        116,
+                        139
+                    ]
+                }
+            ],
+            "user_mentions": [
+                {
+                    "screen_name": "markrutte",
+                    "name": "Mark Rutte",
+                    "id": 16708728,
+                    "id_str": "16708728",
+                    "indices": [
+                        0,
+                        10
+                    ]
+                }
+            ],
+            "symbols": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "filter_level": "low",
+        "lang": "nl",
+        "matching_rules": [
+            {
+                "tag": null
+            }
+        ]
+    },
+    {
+        "created_at": "Tue Sep 15 22:59:27 +0000 2020",
+        "id": 1306004734235619328,
+        "id_str": "1306004734235619328",
+        "text": "Nou ja het is een beginnetje https://t.co/fUxz8AvsET",
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1274638512965521409,
+            "id_str": "1274638512965521409",
+            "name": "hielko terwal",
+            "screen_name": "HielkoT",
+            "location": null,
+            "url": null,
+            "description": "Helemaal niks",
+            "translator_type": "none",
+            "protected": false,
+            "verified": false,
+            "followers_count": 5,
+            "friends_count": 20,
+            "listed_count": 0,
+            "favourites_count": 228,
+            "statuses_count": 251,
+            "created_at": "Sun Jun 21 09:41:28 +0000 2020",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": "",
+            "profile_background_image_url_https": "",
+            "profile_background_tile": false,
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1274638862854340608/DE1IJjLf_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1274638862854340608/DE1IJjLf_normal.jpg",
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": {
+            "id": "ea0a61fa0c646676",
+            "url": "https://api.twitter.com/1.1/geo/id/ea0a61fa0c646676.json",
+            "place_type": "city",
+            "name": "Rotterdam",
+            "full_name": "Rotterdam, The Netherlands",
+            "country_code": "NL",
+            "country": "The Netherlands",
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            3.941836,
+                            51.842113
+                        ],
+                        [
+                            3.941836,
+                            52.006802
+                        ],
+                        [
+                            4.601379,
+                            52.006802
+                        ],
+                        [
+                            4.601379,
+                            51.842113
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "contributors": null,
+        "is_quote_status": false,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "favorite_count": 1,
+        "entities": {
+            "hashtags": [],
+            "urls": [
+                {
+                    "url": "https://t.co/fUxz8AvsET",
+                    "expanded_url": "https://www.worldunity.me/de-who-geeft-toe-dat-het-door-gates-gesteunde-vaccin-de-recente-polio-uitbraak-in-afrika-heeft-veroorzaakt/",
+                    "display_url": "worldunity.me/de-who-geeft-t\u2026",
+                    "indices": [
+                        29,
+                        52
+                    ]
+                }
+            ],
+            "user_mentions": [],
+            "symbols": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "filter_level": "low",
+        "lang": "nl",
+        "matching_rules": [
+            {
+                "tag": null
+            }
+        ]
+    },
+    {
+        "created_at": "Fri Sep 04 16:08:50 +0000 2020",
+        "id": 1301915130503016449,
+        "id_str": "1301915130503016449",
+        "text": "@WheelieNick Dan moet je dat doen als je je daar goed bij voelt. Ik heb daar geen oordeel over \ud83d\ude09 Ik vertrouw het sp\u2026 https://t.co/hk1cjwFWWg",
+        "display_text_range": [
+            13,
+            140
+        ],
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "truncated": true,
+        "in_reply_to_status_id": 1301914247077801986,
+        "in_reply_to_status_id_str": "1301914247077801986",
+        "in_reply_to_user_id": 772138977654632449,
+        "in_reply_to_user_id_str": "772138977654632449",
+        "in_reply_to_screen_name": "WheelieNick",
+        "user": {
+            "id": 368902371,
+            "id_str": "368902371",
+            "name": "\u26a1 Robin \u26a1",
+            "screen_name": "Donderwolkje",
+            "location": "Nederland",
+            "url": "http://www.robindoneert.nl",
+            "description": "\u26a1Dondert zelden\u26a1Wandelt graag / Muziek\ud83c\udfb5Fotografie\ud83d\udcf7 34 / Zin & Onzin / Nierdonor",
+            "translator_type": "none",
+            "protected": false,
+            "verified": false,
+            "followers_count": 1483,
+            "friends_count": 1294,
+            "listed_count": 32,
+            "favourites_count": 23863,
+            "statuses_count": 188205,
+            "created_at": "Tue Sep 06 12:34:28 +0000 2011",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": true,
+            "profile_link_color": "694662",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1339630425396957185/h2JyaLbb_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1339630425396957185/h2JyaLbb_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/368902371/1485797556",
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": {
+            "id": "d3298bc150a19d6a",
+            "url": "https://api.twitter.com/1.1/geo/id/d3298bc150a19d6a.json",
+            "place_type": "city",
+            "name": "Boxtel",
+            "full_name": "Boxtel, Nederland",
+            "country_code": "NL",
+            "country": "The Netherlands",
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            5.246145,
+                            51.543396
+                        ],
+                        [
+                            5.246145,
+                            51.634684
+                        ],
+                        [
+                            5.405336,
+                            51.634684
+                        ],
+                        [
+                            5.405336,
+                            51.543396
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "contributors": null,
+        "is_quote_status": false,
+        "extended_tweet": {
+            "full_text": "@WheelieNick Dan moet je dat doen als je je daar goed bij voelt. Ik heb daar geen oordeel over \ud83d\ude09 Ik vertrouw het spul gewoon niet. En nee dat geeft geen reet te maken met Bill Gates of eventuele nanochips die ge\u00efnjecteerd zouden worden \ud83d\ude09",
+            "display_text_range": [
+                13,
+                237
+            ],
+            "entities": {
+                "hashtags": [],
+                "urls": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "WheelieNick",
+                        "name": "WheelieNick",
+                        "id": 772138977654632449,
+                        "id_str": "772138977654632449",
+                        "indices": [
+                            0,
+                            12
+                        ]
+                    }
+                ],
+                "symbols": []
+            }
+        },
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+            "hashtags": [],
+            "urls": [
+                {
+                    "url": "https://t.co/hk1cjwFWWg",
+                    "expanded_url": "https://twitter.com/i/web/status/1301915130503016449",
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ],
+            "user_mentions": [
+                {
+                    "screen_name": "WheelieNick",
+                    "name": "WheelieNick",
+                    "id": 772138977654632449,
+                    "id_str": "772138977654632449",
+                    "indices": [
+                        0,
+                        12
+                    ]
+                }
+            ],
+            "symbols": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "filter_level": "low",
+        "lang": "nl",
+        "matching_rules": [
+            {
+                "tag": null
+            }
+        ]
+    },
+    {
+        "created_at": "Mon Jun 29 22:09:33 +0000 2020",
+        "id": 1277725923807297536,
+        "id_str": "1277725923807297536",
+        "text": "@DarbsMatt @Bill_Capehart @DoctorVive It\u2019s almost like he has another agenda.",
+        "display_text_range": [
+            38,
+            77
+        ],
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 1277724856369496070,
+        "in_reply_to_status_id_str": "1277724856369496070",
+        "in_reply_to_user_id": 1043083675712323584,
+        "in_reply_to_user_id_str": "1043083675712323584",
+        "in_reply_to_screen_name": "DarbsMatt",
+        "user": {
+            "id": 216082941,
+            "id_str": "216082941",
+            "name": "Suresh Chadda",
+            "screen_name": "SureshChadda",
+            "location": "The Netherlands",
+            "url": null,
+            "description": "Europhile. CAFC. These views are largely my own. Of course I\u2019ll apologise if I get anything factually wrong!",
+            "translator_type": "none",
+            "protected": false,
+            "verified": false,
+            "followers_count": 300,
+            "friends_count": 644,
+            "listed_count": 0,
+            "favourites_count": 26341,
+            "statuses_count": 20913,
+            "created_at": "Mon Nov 15 19:10:21 +0000 2010",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1308050196014796810/ZC8OqRgA_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1308050196014796810/ZC8OqRgA_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/216082941/1583015046",
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": {
+            "id": "59e65bce4978b551",
+            "url": "https://api.twitter.com/1.1/geo/id/59e65bce4978b551.json",
+            "place_type": "city",
+            "name": "Zeist",
+            "full_name": "Zeist, Nederland",
+            "country_code": "NL",
+            "country": "The Netherlands",
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            5.192781,
+                            52.058526
+                        ],
+                        [
+                            5.192781,
+                            52.171145
+                        ],
+                        [
+                            5.332661,
+                            52.171145
+                        ],
+                        [
+                            5.332661,
+                            52.058526
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "contributors": null,
+        "is_quote_status": false,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "DarbsMatt",
+                    "name": "When did the world go mad?",
+                    "id": 1043083675712323584,
+                    "id_str": "1043083675712323584",
+                    "indices": [
+                        0,
+                        10
+                    ]
+                },
+                {
+                    "screen_name": "Bill_Capehart",
+                    "name": "Bill Capehart",
+                    "id": 3763231459,
+                    "id_str": "3763231459",
+                    "indices": [
+                        11,
+                        25
+                    ]
+                },
+                {
+                    "screen_name": "DoctorVive",
+                    "name": "Dr. Genevieve Guenther",
+                    "id": 22140392,
+                    "id_str": "22140392",
+                    "indices": [
+                        26,
+                        37
+                    ]
+                }
+            ],
+            "symbols": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "filter_level": "low",
+        "lang": "en",
+        "matching_rules": [
+            {
+                "tag": null
+            }
+        ]
+    },
+    {
+        "created_at": "Sun Jun 07 09:52:53 +0000 2020",
+        "id": 1269568002216910849,
+        "id_str": "1269568002216910849",
+        "text": "Rutte geeft honderden miljoenen aan vaccingroep Bill Gates https://t.co/dN8NP0tbSg",
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 2700923526,
+            "id_str": "2700923526",
+            "name": "free radical",
+            "screen_name": "BJThoenes",
+            "location": null,
+            "url": null,
+            "description": "Politics & propaganda, media & civil rights, health & food, psychology & philosophy, jokes & wisdom and the occasional cheap air fares.",
+            "translator_type": "none",
+            "protected": false,
+            "verified": false,
+            "followers_count": 741,
+            "friends_count": 4008,
+            "listed_count": 48,
+            "favourites_count": 30055,
+            "statuses_count": 40589,
+            "created_at": "Sat Aug 02 14:26:49 +0000 2014",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_link_color": "ABB8C2",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/815973447843069952/9WPuFy3p_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/815973447843069952/9WPuFy3p_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/2700923526/1483378782",
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": {
+            "id": "99cdab25eddd6bce",
+            "url": "https://api.twitter.com/1.1/geo/id/99cdab25eddd6bce.json",
+            "place_type": "city",
+            "name": "Amsterdam",
+            "full_name": "Amsterdam, The Netherlands",
+            "country_code": "NL",
+            "country": "The Netherlands",
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            4.7289,
+                            52.278227
+                        ],
+                        [
+                            4.7289,
+                            52.431229
+                        ],
+                        [
+                            5.079207,
+                            52.431229
+                        ],
+                        [
+                            5.079207,
+                            52.278227
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "contributors": null,
+        "is_quote_status": false,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+            "hashtags": [],
+            "urls": [
+                {
+                    "url": "https://t.co/dN8NP0tbSg",
+                    "expanded_url": "https://www.ninefornews.nl/rutte-geeft-honderden-miljoenen-aan-vaccingroep-bill-gates-trotse-geldschieter/",
+                    "display_url": "ninefornews.nl/rutte-geeft-ho\u2026",
+                    "indices": [
+                        59,
+                        82
+                    ]
+                }
+            ],
+            "user_mentions": [],
+            "symbols": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "filter_level": "low",
+        "lang": "nl",
+        "matching_rules": [
+            {
+                "tag": null
+            }
+        ]
+    },
+    {
+        "created_at": "Fri Jun 05 21:30:57 +0000 2020",
+        "id": 1269018900211130368,
+        "id_str": "1269018900211130368",
+        "text": "WEF Founder Klaus Schwab Calls For The 'Great Reset' https://t.co/ssEbuEAWe6",
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 2700923526,
+            "id_str": "2700923526",
+            "name": "free radical",
+            "screen_name": "BJThoenes",
+            "location": null,
+            "url": null,
+            "description": "Politics & propaganda, media & civil rights, health & food, psychology & philosophy, jokes & wisdom and the occasional cheap air fares.",
+            "translator_type": "none",
+            "protected": false,
+            "verified": false,
+            "followers_count": 741,
+            "friends_count": 4008,
+            "listed_count": 48,
+            "favourites_count": 30055,
+            "statuses_count": 40589,
+            "created_at": "Sat Aug 02 14:26:49 +0000 2014",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_link_color": "ABB8C2",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/815973447843069952/9WPuFy3p_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/815973447843069952/9WPuFy3p_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/2700923526/1483378782",
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": {
+            "id": "99cdab25eddd6bce",
+            "url": "https://api.twitter.com/1.1/geo/id/99cdab25eddd6bce.json",
+            "place_type": "city",
+            "name": "Amsterdam",
+            "full_name": "Amsterdam, The Netherlands",
+            "country_code": "NL",
+            "country": "The Netherlands",
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            4.7289,
+                            52.278227
+                        ],
+                        [
+                            4.7289,
+                            52.431229
+                        ],
+                        [
+                            5.079207,
+                            52.431229
+                        ],
+                        [
+                            5.079207,
+                            52.278227
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "contributors": null,
+        "is_quote_status": false,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "favorite_count": 1,
+        "entities": {
+            "hashtags": [],
+            "urls": [
+                {
+                    "url": "https://t.co/ssEbuEAWe6",
+                    "expanded_url": "https://www.technocracy.news/wef-founder-klaus-schwab-calls-for-the-great-reset/",
+                    "display_url": "technocracy.news/wef-founder-kl\u2026",
+                    "indices": [
+                        53,
+                        76
+                    ]
+                }
+            ],
+            "user_mentions": [],
+            "symbols": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "filter_level": "low",
+        "lang": "en",
+        "matching_rules": [
+            {
+                "tag": null
+            }
+        ]
+    },
+    {
+        "created_at": "Fri May 22 21:00:20 +0000 2020",
+        "id": 1263937765101756418,
+        "id_str": "1263937765101756418",
+        "text": "@msteeman Hohoho nooit meer rustig ademhalen\nHohoho corona blijft hier voor altijd\nWant Bill Gates heeft\nja Bill Gates geeft\n5G-stralen",
+        "display_text_range": [
+            10,
+            135
+        ],
+        "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 1263881683167784965,
+        "in_reply_to_status_id_str": "1263881683167784965",
+        "in_reply_to_user_id": 19087381,
+        "in_reply_to_user_id_str": "19087381",
+        "in_reply_to_screen_name": "msteeman",
+        "user": {
+            "id": 26295559,
+            "id_str": "26295559",
+            "name": "Roeland van Zeijst",
+            "screen_name": "rovaz",
+            "location": "\ud83c\uddf3\ud83c\uddf1\ud83c\uddea\ud83c\uddfa",
+            "url": "http://www.rovaz.com",
+            "description": "Invented social distancing before it was all the rage. Knows a bit about bytes.",
+            "translator_type": "none",
+            "protected": false,
+            "verified": false,
+            "followers_count": 1290,
+            "friends_count": 2594,
+            "listed_count": 36,
+            "favourites_count": 126032,
+            "statuses_count": 74302,
+            "created_at": "Tue Mar 24 18:50:13 +0000 2009",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "8B542B",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+            "profile_background_tile": false,
+            "profile_link_color": "9D582E",
+            "profile_sidebar_border_color": "D9B17E",
+            "profile_sidebar_fill_color": "EADEAA",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/759728774321537025/9vcsShF1_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/759728774321537025/9vcsShF1_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/26295559/1604620581",
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": {
+            "id": "99cdab25eddd6bce",
+            "url": "https://api.twitter.com/1.1/geo/id/99cdab25eddd6bce.json",
+            "place_type": "city",
+            "name": "Amsterdam",
+            "full_name": "Amsterdam, The Netherlands",
+            "country_code": "NL",
+            "country": "The Netherlands",
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            4.7289,
+                            52.278227
+                        ],
+                        [
+                            4.7289,
+                            52.431229
+                        ],
+                        [
+                            5.079207,
+                            52.431229
+                        ],
+                        [
+                            5.079207,
+                            52.278227
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "contributors": null,
+        "is_quote_status": false,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "favorite_count": 2,
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "msteeman",
+                    "name": "Marcel Steeman",
+                    "id": 19087381,
+                    "id_str": "19087381",
+                    "indices": [
+                        0,
+                        9
+                    ]
+                }
+            ],
+            "symbols": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "filter_level": "low",
+        "lang": "nl",
+        "matching_rules": [
+            {
+                "tag": null
+            }
+        ]
+    },
+    {
+        "created_at": "Fri May 08 16:39:39 +0000 2020",
+        "id": 1258798730150662144,
+        "id_str": "1258798730150662144",
+        "text": "https://t.co/Oppgx7BmEg",
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 833392892,
+            "id_str": "833392892",
+            "name": "Arie Villerius",
+            "screen_name": "villerius1",
+            "location": "Schiedam Nederland",
+            "url": "http://www.losschiedam.nl",
+            "description": "Fractievoorzitter, gem.raadslid Lokaal Onafhankelijk Schiedam @LOSSchiedam. Eerlijk rechts. Dierenvriend, muziek en kritisch levensgenieter.",
+            "translator_type": "none",
+            "protected": false,
+            "verified": false,
+            "followers_count": 462,
+            "friends_count": 210,
+            "listed_count": 4,
+            "favourites_count": 1592,
+            "statuses_count": 1930,
+            "created_at": "Wed Sep 19 14:00:20 +0000 2012",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1288498995875151874/GhE6CAGc_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1288498995875151874/GhE6CAGc_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/833392892/1440538355",
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": {
+            "id": "fb6ca41598e3ffb5",
+            "url": "https://api.twitter.com/1.1/geo/id/fb6ca41598e3ffb5.json",
+            "place_type": "city",
+            "name": "Schiedam",
+            "full_name": "Schiedam, Nederland",
+            "country_code": "NL",
+            "country": "The Netherlands",
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            4.350757,
+                            51.896623
+                        ],
+                        [
+                            4.350757,
+                            51.963469
+                        ],
+                        [
+                            4.417619,
+                            51.963469
+                        ],
+                        [
+                            4.417619,
+                            51.896623
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "contributors": null,
+        "is_quote_status": false,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+            "hashtags": [],
+            "urls": [
+                {
+                    "url": "https://t.co/Oppgx7BmEg",
+                    "expanded_url": "https://www.xandernieuws.net/algemeen/bill-gates-geeft-in-tv-interview-toe-dat-700-000-mensen-kunnen-sterven-door-zijn-vaccin/",
+                    "display_url": "xandernieuws.net/algemeen/bill-\u2026",
+                    "indices": [
+                        0,
+                        23
+                    ]
+                }
+            ],
+            "user_mentions": [],
+            "symbols": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "filter_level": "low",
+        "lang": "und",
+        "matching_rules": [
+            {
+                "tag": null
+            }
+        ]
+    },
+    {
+        "created_at": "Fri May 01 17:58:41 +0000 2020",
+        "id": 1256281905894436865,
+        "id_str": "1256281905894436865",
+        "text": "Haha, dit zou briljante humor zijn geweest, als Tim Engelbart van @DDStandaard niet bloedserieus was geweest. Dat v\u2026 https://t.co/RkXX5ESrnK",
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "truncated": true,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 221878313,
+            "id_str": "221878313",
+            "name": "Paul van den Berg",
+            "screen_name": "Fromdamountain",
+            "location": "Rijswijk, Nederland",
+            "url": null,
+            "description": "historicus \u2664 filmfreak \u2664 tweets over nationale en internationale politiek \u2664 schaker \u2664 ontzettende linkse zeikstraal \u2664 feminist \u2664 rebel with a cause",
+            "translator_type": "none",
+            "protected": false,
+            "verified": false,
+            "followers_count": 3966,
+            "friends_count": 3722,
+            "listed_count": 76,
+            "favourites_count": 18962,
+            "statuses_count": 31729,
+            "created_at": "Wed Dec 01 21:33:27 +0000 2010",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "ACDED6",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+            "profile_background_tile": false,
+            "profile_link_color": "038543",
+            "profile_sidebar_border_color": "EEEEEE",
+            "profile_sidebar_fill_color": "F6F6F6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1341329234753691649/HOMKox5-_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1341329234753691649/HOMKox5-_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/221878313/1604617501",
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": {
+            "id": "02b28aff7598ac72",
+            "url": "https://api.twitter.com/1.1/geo/id/02b28aff7598ac72.json",
+            "place_type": "city",
+            "name": "Rijswijk",
+            "full_name": "Rijswijk, Nederland",
+            "country_code": "NL",
+            "country": "The Netherlands",
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            4.290943,
+                            52.012746
+                        ],
+                        [
+                            4.290943,
+                            52.061759
+                        ],
+                        [
+                            4.357779,
+                            52.061759
+                        ],
+                        [
+                            4.357779,
+                            52.012746
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "contributors": null,
+        "is_quote_status": false,
+        "extended_tweet": {
+            "full_text": "Haha, dit zou briljante humor zijn geweest, als Tim Engelbart van @DDStandaard niet bloedserieus was geweest. Dat vodje begint zich steeds meer te manifesteren als het propagandakanaal van @fvdemocratie.\n https://t.co/GpfGhHNQKw",
+            "display_text_range": [
+                0,
+                228
+            ],
+            "entities": {
+                "hashtags": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/GpfGhHNQKw",
+                        "expanded_url": "https://www.dagelijksestandaard.nl/2020/04/kijk-ook-appgroep-van-jongerenorganisatie-groenlinks-zit-propvol-knettergekke-dictatuuraanhangers/",
+                        "display_url": "dagelijksestandaard.nl/2020/04/kijk-o\u2026",
+                        "indices": [
+                            205,
+                            228
+                        ]
+                    }
+                ],
+                "user_mentions": [
+                    {
+                        "screen_name": "DDStandaard",
+                        "name": "Dagelijkse Standaard",
+                        "id": 88406498,
+                        "id_str": "88406498",
+                        "indices": [
+                            66,
+                            78
+                        ]
+                    },
+                    {
+                        "screen_name": "fvdemocratie",
+                        "name": "Forum voor Democratie",
+                        "id": 2822530175,
+                        "id_str": "2822530175",
+                        "indices": [
+                            189,
+                            202
+                        ]
+                    }
+                ],
+                "symbols": []
+            }
+        },
+        "quote_count": 3,
+        "reply_count": 6,
+        "retweet_count": 1,
+        "favorite_count": 10,
+        "entities": {
+            "hashtags": [],
+            "urls": [
+                {
+                    "url": "https://t.co/RkXX5ESrnK",
+                    "expanded_url": "https://twitter.com/i/web/status/1256281905894436865",
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ],
+            "user_mentions": [
+                {
+                    "screen_name": "DDStandaard",
+                    "name": "Dagelijkse Standaard",
+                    "id": 88406498,
+                    "id_str": "88406498",
+                    "indices": [
+                        66,
+                        78
+                    ]
+                }
+            ],
+            "symbols": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "filter_level": "low",
+        "lang": "nl",
+        "matching_rules": [
+            {
+                "tag": null
+            }
+        ]
+    },
+    {
+        "created_at": "Mon Apr 27 09:55:58 +0000 2020",
+        "id": 1254710872762732544,
+        "id_str": "1254710872762732544",
+        "text": "@Arrowfut @maikelsss1 @robertjensen Ach Google eens voor dat je blaat.  Verborgen agenda EU,  kijk wat Bill Gates w\u2026 https://t.co/9V0jsRsq2x",
+        "display_text_range": [
+            36,
+            140
+        ],
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "truncated": true,
+        "in_reply_to_status_id": 1254352232956473344,
+        "in_reply_to_status_id_str": "1254352232956473344",
+        "in_reply_to_user_id": 133672227,
+        "in_reply_to_user_id_str": "133672227",
+        "in_reply_to_screen_name": "Arrowfut",
+        "user": {
+            "id": 1530205099,
+            "id_str": "1530205099",
+            "name": "Carla @ Stop de Lockdown.",
+            "screen_name": "CarlaB1lly",
+            "location": "Nissewaard, Nederland",
+            "url": null,
+            "description": "Het is tijd voor gezond verstand..Dus volg ik Robert Jensen.\nFVD, en Trump.",
+            "translator_type": "none",
+            "protected": false,
+            "verified": false,
+            "followers_count": 285,
+            "friends_count": 286,
+            "listed_count": 0,
+            "favourites_count": 9358,
+            "statuses_count": 2662,
+            "created_at": "Wed Jun 19 08:27:28 +0000 2013",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": true,
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1257737142089986050/6oQrEjVm_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1257737142089986050/6oQrEjVm_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1530205099/1584006328",
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": {
+            "id": "e33cd4ad2011f220",
+            "url": "https://api.twitter.com/1.1/geo/id/e33cd4ad2011f220.json",
+            "place_type": "city",
+            "name": "Spijkenisse",
+            "full_name": "Spijkenisse, Nederland",
+            "country_code": "NL",
+            "country": "The Netherlands",
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            4.283809,
+                            51.811301
+                        ],
+                        [
+                            4.283809,
+                            51.864461
+                        ],
+                        [
+                            4.433065,
+                            51.864461
+                        ],
+                        [
+                            4.433065,
+                            51.811301
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "contributors": null,
+        "is_quote_status": false,
+        "extended_tweet": {
+            "full_text": "@Arrowfut @maikelsss1 @robertjensen Ach Google eens voor dat je blaat.  Verborgen agenda EU,  kijk wat Bill Gates wil. Lees over WHO, globalisme,  kortom lees meer dan de krant, msm of twitter.",
+            "display_text_range": [
+                36,
+                193
+            ],
+            "entities": {
+                "hashtags": [],
+                "urls": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "Arrowfut",
+                        "name": "Arrow \ud83c\udff9",
+                        "id": 133672227,
+                        "id_str": "133672227",
+                        "indices": [
+                            0,
+                            9
+                        ]
+                    },
+                    {
+                        "screen_name": "maikelsss1",
+                        "name": "Maikelsss",
+                        "id": 1897331473,
+                        "id_str": "1897331473",
+                        "indices": [
+                            10,
+                            21
+                        ]
+                    },
+                    {
+                        "screen_name": "robertjensen",
+                        "name": "Robert Jensen",
+                        "id": 121374117,
+                        "id_str": "121374117",
+                        "indices": [
+                            22,
+                            35
+                        ]
+                    }
+                ],
+                "symbols": []
+            }
+        },
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+            "hashtags": [],
+            "urls": [
+                {
+                    "url": "https://t.co/9V0jsRsq2x",
+                    "expanded_url": "https://twitter.com/i/web/status/1254710872762732544",
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ],
+            "user_mentions": [
+                {
+                    "screen_name": "Arrowfut",
+                    "name": "Arrow \ud83c\udff9",
+                    "id": 133672227,
+                    "id_str": "133672227",
+                    "indices": [
+                        0,
+                        9
+                    ]
+                },
+                {
+                    "screen_name": "maikelsss1",
+                    "name": "Maikelsss",
+                    "id": 1897331473,
+                    "id_str": "1897331473",
+                    "indices": [
+                        10,
+                        21
+                    ]
+                },
+                {
+                    "screen_name": "robertjensen",
+                    "name": "Robert Jensen",
+                    "id": 121374117,
+                    "id_str": "121374117",
+                    "indices": [
+                        22,
+                        35
+                    ]
+                }
+            ],
+            "symbols": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "filter_level": "low",
+        "lang": "nl",
+        "matching_rules": [
+            {
+                "tag": null
+            }
+        ]
+    },
+    {
+        "created_at": "Sat Apr 18 13:04:03 +0000 2020",
+        "id": 1251496714906763264,
+        "id_str": "1251496714906763264",
+        "text": "Gaat Bill Gates niet om geld zeiden aantal bekende twitteraars maar nu geeft Nederland 50 miljoen zogenaamd voor on\u2026 https://t.co/3BFeffhvtz",
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "truncated": true,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 202656594,
+            "id_str": "202656594",
+            "name": "Abel Fris",
+            "screen_name": "AbelFris",
+            "location": "Rotterdam, Nederland",
+            "url": "http://www.abelfris.nl",
+            "description": "B-abel-one.\nBedrijfskundige Informatica (HBO), Geschiedenis, Erasmus (heel even!)",
+            "translator_type": "none",
+            "protected": false,
+            "verified": false,
+            "followers_count": 3283,
+            "friends_count": 3334,
+            "listed_count": 3,
+            "favourites_count": 63743,
+            "statuses_count": 73648,
+            "created_at": "Thu Oct 14 14:50:45 +0000 2010",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_link_color": "E81C4F",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1338619648057765892/i7KRyGvg_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1338619648057765892/i7KRyGvg_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/202656594/1605121550",
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": {
+            "id": "ea0a61fa0c646676",
+            "url": "https://api.twitter.com/1.1/geo/id/ea0a61fa0c646676.json",
+            "place_type": "city",
+            "name": "Rotterdam",
+            "full_name": "Rotterdam, The Netherlands",
+            "country_code": "NL",
+            "country": "The Netherlands",
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            3.941836,
+                            51.842113
+                        ],
+                        [
+                            3.941836,
+                            52.006802
+                        ],
+                        [
+                            4.601379,
+                            52.006802
+                        ],
+                        [
+                            4.601379,
+                            51.842113
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "contributors": null,
+        "is_quote_status": false,
+        "extended_tweet": {
+            "full_text": "Gaat Bill Gates niet om geld zeiden aantal bekende twitteraars maar nu geeft Nederland 50 miljoen zogenaamd voor onderzoek van Coronavaccin, geld dat naar kinderen had gekund die 's ochtends niet eens ontbijten bijvoorbeeld of lasten verlagen. Laat Bill Gates dat zelf betalen.",
+            "display_text_range": [
+                0,
+                277
+            ],
+            "entities": {
+                "hashtags": [],
+                "urls": [],
+                "user_mentions": [],
+                "symbols": []
+            }
+        },
+        "quote_count": 0,
+        "reply_count": 3,
+        "retweet_count": 7,
+        "favorite_count": 12,
+        "entities": {
+            "hashtags": [],
+            "urls": [
+                {
+                    "url": "https://t.co/3BFeffhvtz",
+                    "expanded_url": "https://twitter.com/i/web/status/1251496714906763264",
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ],
+            "user_mentions": [],
+            "symbols": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "filter_level": "low",
+        "lang": "nl",
+        "matching_rules": [
+            {
+                "tag": null
+            }
+        ]
+    },
+    {
+        "created_at": "Wed Apr 15 13:20:30 +0000 2020",
+        "id": 1250413691113259009,
+        "id_str": "1250413691113259009",
+        "text": "@SigridKaag @WHO Lees mail van Ren\u00e9 Westhoek!\n\"Robert Kennedy jr. fileert in verpletterd rapport vaccin agenda van Bill Gates!!!",
+        "display_text_range": [
+            17,
+            128
+        ],
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 1250387335063179264,
+        "in_reply_to_status_id_str": "1250387335063179264",
+        "in_reply_to_user_id": 933973531968397312,
+        "in_reply_to_user_id_str": "933973531968397312",
+        "in_reply_to_screen_name": "SigridKaag",
+        "user": {
+            "id": 1080579586147209216,
+            "id_str": "1080579586147209216",
+            "name": "Odie K.",
+            "screen_name": "OdieK14",
+            "location": null,
+            "url": null,
+            "description": "Docent, directeur-bestuurder, toezichthouder in de zorg. andragoog/pedagoog, Gepensioneerd.",
+            "translator_type": "none",
+            "protected": false,
+            "verified": false,
+            "followers_count": 254,
+            "friends_count": 408,
+            "listed_count": 0,
+            "favourites_count": 13685,
+            "statuses_count": 30904,
+            "created_at": "Wed Jan 02 21:40:24 +0000 2019",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": "",
+            "profile_background_image_url_https": "",
+            "profile_background_tile": false,
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+            "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": {
+            "id": "fec750e635427c4d",
+            "url": "https://api.twitter.com/1.1/geo/id/fec750e635427c4d.json",
+            "place_type": "city",
+            "name": "Heerlen",
+            "full_name": "Heerlen, Nederland",
+            "country_code": "NL",
+            "country": "The Netherlands",
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            5.895459,
+                            50.818364
+                        ],
+                        [
+                            5.895459,
+                            50.936387
+                        ],
+                        [
+                            6.026377,
+                            50.936387
+                        ],
+                        [
+                            6.026377,
+                            50.818364
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "contributors": null,
+        "is_quote_status": false,
+        "quote_count": 0,
+        "reply_count": 1,
+        "retweet_count": 0,
+        "favorite_count": 2,
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "SigridKaag",
+                    "name": "Sigrid Kaag",
+                    "id": 933973531968397312,
+                    "id_str": "933973531968397312",
+                    "indices": [
+                        0,
+                        11
+                    ]
+                },
+                {
+                    "screen_name": "WHO",
+                    "name": "World Health Organization (WHO)",
+                    "id": 14499829,
+                    "id_str": "14499829",
+                    "indices": [
+                        12,
+                        16
+                    ]
+                }
+            ],
+            "symbols": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "filter_level": "low",
+        "lang": "nl",
+        "matching_rules": [
+            {
+                "tag": null
+            }
+        ]
+    },
+    {
+        "created_at": "Mon Apr 06 05:27:41 +0000 2020",
+        "id": 1247033214796955649,
+        "id_str": "1247033214796955649",
+        "text": "Bill Gates geeft miljarden uit aan de ontwikkeling van een #vaccin om het #coronavirus te bestrijden.\n#COVID19 https://t.co/S0LmNA4lOR",
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 151397675,
+            "id_str": "151397675",
+            "name": "Martijn van Dalen",
+            "screen_name": "MGvanDalen",
+            "location": "Utrecht, The Netherlands",
+            "url": "http://martijnvandalen.nl",
+            "description": "Liberaal pur sang | Duurzaamheid | Utrecht | Wereldburger | Geloven in kansen | Innovatie | Change | Digital | Strategy | Raadslid Utrechtse VVD",
+            "translator_type": "none",
+            "protected": false,
+            "verified": false,
+            "followers_count": 912,
+            "friends_count": 457,
+            "listed_count": 79,
+            "favourites_count": 21338,
+            "statuses_count": 11827,
+            "created_at": "Thu Jun 03 09:26:37 +0000 2010",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/917315732836442112/bGcwoXEs_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/917315732836442112/bGcwoXEs_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/151397675/1507540047",
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": {
+            "id": "871685aa82f8a489",
+            "url": "https://api.twitter.com/1.1/geo/id/871685aa82f8a489.json",
+            "place_type": "city",
+            "name": "Utrecht",
+            "full_name": "Utrecht, The Netherlands",
+            "country_code": "NL",
+            "country": "The Netherlands",
+            "bounding_box": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            4.970287,
+                            52.026243
+                        ],
+                        [
+                            4.970287,
+                            52.142137
+                        ],
+                        [
+                            5.195247,
+                            52.142137
+                        ],
+                        [
+                            5.195247,
+                            52.026243
+                        ]
+                    ]
+                ]
+            },
+            "attributes": {}
+        },
+        "contributors": null,
+        "is_quote_status": false,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "favorite_count": 1,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "vaccin",
+                    "indices": [
+                        59,
+                        66
+                    ]
+                },
+                {
+                    "text": "coronavirus",
+                    "indices": [
+                        74,
+                        86
+                    ]
+                },
+                {
+                    "text": "COVID19",
+                    "indices": [
+                        102,
+                        110
+                    ]
+                }
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/S0LmNA4lOR",
+                    "expanded_url": "https://www.wsj.com/articles/bill-gates-to-spend-billions-on-coronavirus-vaccine-development-11586124716",
+                    "display_url": "wsj.com/articles/bill-\u2026",
+                    "indices": [
+                        111,
+                        134
+                    ]
+                }
+            ],
+            "user_mentions": [],
+            "symbols": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "filter_level": "low",
+        "lang": "nl",
+        "matching_rules": [
+            {
+                "tag": null
+            }
+        ]
+    }
+]

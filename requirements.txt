@@ -1,0 +1,15 @@
+psycopg2
+Scrapy
+bs4
+tqdm
+nltk
+pytrends
+matplotlib
+pandas
+searchtweets
+searchtweets-v2
+knapsack
+plotly
+statsmodels
+psutil
+xlrd
