@@ -4,10 +4,10 @@ import pandas as pd
 import plotly.express as px
 
 
-with open("twitter/refined.json", "rb") as file:
+with open("refined.json", "rb") as file:
     tweets = json.load(file)
 
-with open("googlesearch/df_rest_cat.csv", "r") as file:
+with open("../googlesearch/df_rest_cat.csv", "r") as file:
     shell_df = pd.read_csv(file, sep=";", decimal=",")
     shell_df = shell_df.drop(columns=shell_df.columns[0])
     shell_df.set_index("date", inplace=True)
@@ -23,10 +23,10 @@ for tweet in tweets:
             except KeyError:
                 pass
 
-with open("twitter/df_tweets.json", "w+") as file:
+with open("df_tweets.json", "w+") as file:
     df.to_json(file, indent=4)
 
-with open("LRA/df_tweets.json", "w+") as file:
+with open("../LRA/df_tweets.json", "w+") as file:
     df.to_json(file, indent=4)
 
 df_line = df.rolling(7).mean()

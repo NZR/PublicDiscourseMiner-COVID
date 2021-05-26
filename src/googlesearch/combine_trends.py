@@ -95,5 +95,5 @@ with open("../LRA/df_trends.json", "w") as file:
     
 df_line = df_res_cat.rolling(7).mean()
 df_line = df_line.join(df_res_cat["date"])
-fig = px.line(df_line, x="date", y=df_line.columns, title='Life expectancy in Canada')
+fig = px.line(df_line, x="date", y=df_line.columns, title='Hits on Google Trends for terms in each categories')
 fig.show()
