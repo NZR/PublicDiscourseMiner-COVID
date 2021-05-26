@@ -5,7 +5,7 @@ tqdm
 nltk
 pytrends
 matplotlib
-pandas
+pandas>=1.0
 searchtweets
 searchtweets-v2
 knapsack
