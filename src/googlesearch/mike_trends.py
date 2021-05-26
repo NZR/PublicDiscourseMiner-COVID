@@ -8,7 +8,7 @@ import time
 def get_grams():
     bigrams_string = []
     words_string = []
-    with open('googlesearch/input/wordsandbigrams.json', 'r+') as file:
+    with open('input/wordsandbigrams.json', 'r+') as file:
         bigrams = json.load(file)
         for k,v in bigrams["category"].items():
             for l,j in v.items():
@@ -50,7 +50,7 @@ if __name__ == "__main__":
                 results[comp_str][gram] = trend.to_csv(sep=';')
                 time.sleep(1)
         finally:
-            with open(f"googlesearch/output/{comp_str}.json", "w+") as file:
+            with open(f"output/{comp_str}.json", "w+") as file:
                 json.dump(results,file,indent=4)
 
 

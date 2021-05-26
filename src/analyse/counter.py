@@ -1,8 +1,12 @@
-'''
-This script counts words from a specific a specific article
-It also allows to clean the article, it returns list of words and bigrams
-And data processing tasks.
-'''
+"""
+Counter class - 
+    articles[] - list of articles associated with this entry, usually one article per object.
+    all_text -  this holds a "clean" version of the article : stop words removed, HTML tags removed, ... 
+    real - whether the article is "real news" or "alternative news". 
+
+    One object may contain multiple article, in which case each (clean) article is appended in the arry, 
+    and the clean all_text variable will contain an aggregated version of the all article (1 at a time, in order of addition). 
+"""
 import json
 import re
 import nltk
@@ -28,6 +32,14 @@ class Counter:
     
     # Adds the article to the articles array
     def add_article(self, text):
+        """
+            adds an entry to the current object. 
+            input: "text" 
+            output: none - the object is filled
+
+            The "input" text is cleaned from special characters and stop words. 
+            It's then added to the list of article (array), and its text (clean) is appended to "all_text". 
+        """
         txt = self.remove_special_characters(text)
         clean_txt = self.remove_stopwords(txt, is_lower_case=True)
         self.articles.append(clean_txt)
@@ -38,6 +50,14 @@ class Counter:
     
     # Cleansup the article by removing special characters and lower casing everything
     def remove_special_characters(self, text, remove_digits=False):
+        """
+            Deletes specific characters from HTML pages to ease future analysis.
+            It removes: 
+            - isolated numbers and words (pattern)
+            - image links 
+            - sequnences of white spaces
+            - specific case for the character "ï"  (replaced by "i")
+        """
         pattern = r'[^a-zA-Z0-9\s]' if not remove_digits else r'[^a-zA-Z\s]'
         pattern_rubbish = r'\b(\w){4,}?jpg\b'
         pattern_more_3 = r'\b\w{1,3}\b'
@@ -93,11 +113,19 @@ class Counter:
     
     # Provides n(x) range of top words in the cleaned article
     def x_top_words(self, x):
+        """
+            return the top X word with respect to their frequency, from the current text (all_text)
+            input: "x" how many do you want ? 
+        """
         return CollCount(self.get_words()).most_common(x)
     
     
     # Provides n(x) range of top words in the cleaned article
     def x_top_bigrams(self,x):
+        """
+            return the top X bigrams with respect to their frequency, from the current text (all_text)
+            input: "x" how many do you want ? 
+        """
         return CollCount(self.get_bigrams()).most_common(x)
 
 if __name__ == "__main__":

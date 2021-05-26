@@ -5,7 +5,7 @@ from io import StringIO
 import plotly.express as px
 
 
-INFILE = "googlesearch/output/staatsgreepcorona.json"
+INFILE = "output/staatsgreepcorona.json"
 
 with open(INFILE) as json_file:
     data = json.load(json_file)
@@ -70,12 +70,12 @@ df_res = pd.DataFrame()
 norm1 = (bg["viruswaarheid"] / vw["viruswaarheid"]).fillna(0)
 norm2 = (vw["staatsgreep"] / sg["staatsgreep"]).fillna(0)
 df_res = bg.join([vw.drop(columns=["viruswaarheid", "date"]).multiply(norm1, axis=0), sg.drop(columns=["staatsgreep", "date"]).multiply(norm2, axis=0).round(1)])
-with open("googlesearch/df_rest.csv", "w+") as file:
+with open("df_rest.csv", "w+") as file:
     df_res.to_csv(file, sep=";", decimal=",")
 
 
 cat_terms = {}
-with open("googlesearch/input/wordsandbigrams.json", "r+") as file:
+with open("input/wordsandbigrams.json", "r+") as file:
     temp = json.load(file)
     for k,v in temp["category"].items():
         for l,j in v.items():
@@ -87,11 +87,11 @@ df_res_cat = pd.DataFrame(df_res["date"])
 
 for cat, catterms in cat_terms.items():
     df_res_cat[cat]= df_res[catterms].sum(axis=1).round(1)
-with open("googlesearch/df_rest_cat.csv", "wb") as file:
+with open("df_rest_cat.csv", "w") as file:
     df_res_cat.to_csv(file, sep=";", decimal=",")
 
-with open("LRA/df_trends.json", "w+") as file:
-    df_res_cat.to_json(file, indent=4)
+with open("../LRA/df_trends.json", "w") as file:
+    df_res_cat.to_json(file, indent = 4)
     
 df_line = df_res_cat.rolling(7).mean()
 df_line = df_line.join(df_res_cat["date"])
