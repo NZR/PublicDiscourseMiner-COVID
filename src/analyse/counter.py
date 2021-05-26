@@ -7,7 +7,6 @@ Counter class -
     One object may contain multiple article, in which case each (clean) article is appended in the arry, 
     and the clean all_text variable will contain an aggregated version of the all article (1 at a time, in order of addition). 
 """
-
 import json
 import re
 import nltk
@@ -15,14 +14,14 @@ from nltk import bigrams
 from nltk.tokenize.toktok import ToktokTokenizer
 from collections import Counter as CollCount
 
-
 class Counter:
 
     def __init__(self, real):
-        self.articles =[]
+        self.articles =[]  # There is only one article per Counter instance, so this is confusing
         self.all_text = ""
         self.real = real
-
+    
+    # !Not used at the moment
     def add_sites(self, sites):
         for site in sites:
             with open('./data/websites/' + site, 'r') as f:
@@ -30,7 +29,8 @@ class Counter:
                 for txt in article:
                     txt = txt['full_text']
                     self.add_article(txt)
-
+    
+    # Adds the article to the articles array
     def add_article(self, text):
         """
             adds an entry to the current object. 
@@ -44,10 +44,11 @@ class Counter:
         clean_txt = self.remove_stopwords(txt, is_lower_case=True)
         self.articles.append(clean_txt)
         self.all_text+=clean_txt
-
+    
     def get_articles(self):
         return self.articles
-
+    
+    # Cleansup the article by removing special characters and lower casing everything
     def remove_special_characters(self, text, remove_digits=False):
         """
             Deletes specific characters from HTML pages to ease future analysis.
@@ -65,7 +66,8 @@ class Counter:
         text = re.sub(pattern_rubbish, '', text)
         text = re.sub(pattern_more_3, '', text)
         return text.lower()
-
+    
+    # Takes a list of stop workds from a file in a specific language and removes them
     def remove_stopwords(self, text, is_lower_case=False):
         tokenizer = ToktokTokenizer()
         with open('data/dutch', "r") as file:
@@ -108,14 +110,17 @@ class Counter:
         fdist = self.get_words()
         for k, v in fdist.items():
             print(k, v)
-
+    
+    # Provides n(x) range of top words in the cleaned article
     def x_top_words(self, x):
         """
             return the top X word with respect to their frequency, from the current text (all_text)
             input: "x" how many do you want ? 
         """
         return CollCount(self.get_words()).most_common(x)
-
+    
+    
+    # Provides n(x) range of top words in the cleaned article
     def x_top_bigrams(self,x):
         """
             return the top X bigrams with respect to their frequency, from the current text (all_text)
