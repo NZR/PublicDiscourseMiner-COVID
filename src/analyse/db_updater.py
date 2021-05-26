@@ -77,7 +77,7 @@ def iter_sample_fast(iterable, samplesize):
     results = []
     iterator = iter(iterable)
     # Fill in the first samplesize elements:
-    for _ in xrange(samplesize):
+    for _ in range(samplesize):
         results.append(iterator.next())
     random.shuffle(results)  # Randomize their positions
     for i, v in enumerate(iterator, samplesize):
