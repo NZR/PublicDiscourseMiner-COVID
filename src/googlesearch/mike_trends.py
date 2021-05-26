@@ -3,12 +3,12 @@ import pandas as pd
 import json
 import time
 
-
-
-def get_grams():
+# 'input/wordsandbigrams.json'
+def get_grams(path):
     bigrams_string = []
     words_string = []
-    with open('googlesearch/input/wordsandbigrams.json', 'r+') as file:
+
+    with open(path, 'r+') as file:
         bigrams = json.load(file)
         for k,v in bigrams["category"].items():
             for l,j in v.items():
@@ -24,7 +24,7 @@ def get_grams():
 if __name__ == "__main__":
     pytrends = TrendReq()
     compare_list = [["viruswaarheid"],["bill gates"], ["corona"], ["staatsgreep"], ["bill gates", "viruswaarheid"], ["staatsgreep", "corona"]]
-    grams = get_grams()
+    grams = get_grams('input/wordsandbigrams.json')
     for g in grams:
         temp = []
         temp.append(g)
@@ -50,7 +50,7 @@ if __name__ == "__main__":
                 results[comp_str][gram] = trend.to_csv(sep=';')
                 time.sleep(1)
         finally:
-            with open(f"googlesearch/output/{comp_str}.json", "w+") as file:
+            with open(f"output/{comp_str}.json", "w+") as file:
                 json.dump(results,file,indent=4)
 
 
