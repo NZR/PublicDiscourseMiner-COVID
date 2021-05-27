@@ -1,11 +1,27 @@
 """
-Goal: 
+Goal: this scripts performed a Linear regression analysis, relating 
+posts on twitters and querries on google regarding disinformation terms
+and the willingness of the Dutch population to vaccinate.
 
-Input: 
+Input:
+Time series: 
+-  for each category of disinformation term identified: 
+    - google search hits (from Google trends) of key words over the studied period of time
+    - twitters posts hits of key words over the studied period of time
+- time series on vaccination willingness in the Netherlands over the studied period of time
+    - data obtained from several surveys and official data.
 
 Output: 
+- correlation factors between the dependent variables (term usage in platform) and 
+the independent variable (vaccination willingness). 
 
-Data extension: (want to do more ?)
+    The output is printed into the console in 2 format. The first is human readable, the second is
+    Latex formated (table)
+
+df_trends.json contains google search hits for all categories
+df_tweets.json contains the tweeter info for all categories
+willingness.csv contains the % of the population willing to vaccinate against COVID over time. 
+
 
 """
 import pandas as pd
