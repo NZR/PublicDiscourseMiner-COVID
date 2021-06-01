@@ -1,3 +1,6 @@
+'''
+Process 
+'''
 import json
 import psycopg2
 from tqdm import tqdm
@@ -25,6 +28,9 @@ class dbconnect():
             return self.cur.fetchall()
 
 def db_update(stopwords=True, bigrams=True):
+    '''
+    Clean up articles from the database, remove stopwords, extract bigrams and add a bigram column
+    '''
     #get rows, per row ID and full text
     db = dbconnect()
     #Get all rows
