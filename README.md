@@ -1,9 +1,18 @@
 
-# GovernanceofCyber
+# Public Discourse Miner - COVID case.
+
+This code was used in the study of disinformation spread in public media and
+its relationship with vaccination willingness.
+
+This repository contains the code that was used to perform the study, including,
+web scrapping tools, words/bigram counting, qualitative analysis information,
+the tool used to query Google Trends and Twitter, and finally the statistical analysis of the results.
+
+
 
 
 ## Scraping
-All the tools to scrape can be found in the directory _/scraping_. Scraping consists of two parts: First, all the URLs of the articles need to be scraped (sitemap), then, following those URLs, the articles themselves are scraped. 
+All the tools to scrape can be found in the directory _/scraping_. Scraping consists of two parts: First, all the URLs of the articles need to be scraped (sitemap), then, following those URLs, the articles themselves are scraped.
 
 **Scraping basics**
 Every spider file starts in the following way (after some imports):
@@ -51,7 +60,7 @@ When scraping URLs you most likely want to save the URLs, this is the _a::attr(h
             }
 ```
 
-It's easiest to save the URLs you scraped in a file. If you yield the results in the format `'url': <extracted url>` and write the output to a .json file it will be easy to read for the next step. 
+It's easiest to save the URLs you scraped in a file. If you yield the results in the format `'url': <extracted url>` and write the output to a .json file it will be easy to read for the next step.
 
 **Scraping the articles**
 
