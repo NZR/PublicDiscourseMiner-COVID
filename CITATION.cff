@@ -1,0 +1,20 @@
+# YAML 1.2
+---
+authors: 
+  -
+    family-names: Dintzner
+    given-names: Nicolas
+    orcid: "https://orcid.org/"
+cff-version: "1.1.0"
+date-released: 
+doi: 
+keywords: 
+  - NPL
+  - "fake news"
+  - 
+license: "Apache-2.0"
+message: "If you use this software, please cite it using these metadata."
+repository-code: "https://github.com/NZR/PublicDiscourseMiner-COVID"
+title: "Public Discourse Miner -Covid 19"
+version: "0.0.1"
+...

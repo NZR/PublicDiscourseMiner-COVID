@@ -1,2 +1,0 @@
-- `visuals.py` depends on db connection (Why do we need the db? Do we need it at this stage yes or no?)
-- Visual vaccination will should be in notebooks to show the result
