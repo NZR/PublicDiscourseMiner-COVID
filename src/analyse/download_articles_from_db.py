@@ -1,8 +1,15 @@
-'''
+''' Articles downloader
+
 This script connects the database hosting articles, it aggregates
-them in a certain structue and it downloads them into a .npy file array.
+them into a list of articles and it writes the list into a .npy file.
+The main function takes as an argument the path to where the output articles.npy file
+will be stored.
+
 There are two main collections fetched, articles from the fake_sites 
 category and from the real_sites category.
+
+In order to run this script crendentials need to be specified in the 
+<root dir>/db_credentials.json file
 '''
 from counter import Counter 
 from collections import Counter as CollCount
