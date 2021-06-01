@@ -11,6 +11,8 @@ import psycopg2
 import numpy as np
 from tqdm import tqdm
 import json
+import pathlib
+import sys
 
 with open("../../db_credentials.json")as f:
     cred = f.read()
@@ -40,29 +42,36 @@ def fetchArticles(site):
     db.execute("select full_text from artikelen where site = '"+site+"'")
     return db.fetchall()
 
-def download_articles():
-    db = dbconnect()
-    db.execute("select distinct site from artikelen where nepnieuws =1")
-    fake_sites = db.fetchall()
-    db.execute("select distinct site from artikelen where nepnieuws =0")
-    real_sites = db.fetchall()
+def download_articles(output_path):
+    file = pathlib.Path(output_path)
+ 
+    if not file.exists():
+        print("Unexisting output path")
     
-    articles = []
-    for site in fake_sites:
-        c = Counter(real=False)
-        articles = fetchArticles(site[0])
-        for article in articles:
-            c.add_article(article[0])
-        articles.append(c)
+    else: 
+        db = dbconnect()
+        db.execute("select distinct site from artikelen where nepnieuws =1")
+        fake_sites = db.fetchall()
+        db.execute("select distinct site from artikelen where nepnieuws =0")
+        real_sites = db.fetchall()
 
-    for site in real_sites:
-        c = Counter(real=True)
-        articles = fetchArticles(site[0])
-        for article in articles:
-            c.add_article(article[0])
-        articles.append(c)
+        articles = []
+        for site in fake_sites:
+            c = Counter(real=False)
+            articles = fetchArticles(site[0])
+            for article in articles:
+                c.add_article(article[0])
+            articles.append(c)
 
-        np.save('../../data/articles.npy',articles)
+        for site in real_sites:
+            c = Counter(real=True)
+            articles = fetchArticles(site[0])
+            for article in articles:
+                c.add_article(article[0])
+            articles.append(c)
+
+            np.save(f'{output_path}articles.npy',articles)
 
 if __name__=="__main__":
-    download_articles()
+    path = sys.argv[0]
+    download_articles(path)
