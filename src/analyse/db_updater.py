@@ -12,7 +12,7 @@ from counter import Counter
 
 class dbconnect():
     def __init__(self):
-        self.conn = psycopg2.connect("dbname=artikelen user=goc password=governance host=database.mvdboon.nl port=15000")
+        self.conn = psycopg2.connect("dbname=artikelen user= password= host= port=")
         self.cur = self.conn.cursor()
     
     def close(self):

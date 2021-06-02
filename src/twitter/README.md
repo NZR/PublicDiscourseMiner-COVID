@@ -1,5 +1,10 @@
 # Twitter data 
 
+
+WARNING: This code uses Twitter API. You must fill your keys in the .YML file contained in this folder if you want to do anything. 
+
+
+
 This folder contains the code that was used to identify tweets mentioning 
 the specific disinformation ``keywords'' identified earlier in the process. 
 
@@ -9,6 +14,9 @@ In this module you will find the code that:
 - flagging of tweets for all their relenvant categories (only one keyword is enough to be taged, and then the tweet content is checked for it 
   participating in more than one category - so a tweet can contribute to more than one!)
 - identify trends by category, for all tweets from the Netherlands (sample from twitter dev. API) over the studied period of time. 
+
+
+
 
 
 # Notes

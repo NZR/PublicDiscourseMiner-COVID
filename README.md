@@ -1,4 +1,3 @@
-
 # Public Discourse Miner - COVID case.
 
 This code was used in the study of disinformation spread in public media and
@@ -7,6 +6,48 @@ its relationship with vaccination willingness.
 This repository contains the code that was used to perform the study, including,
 web scrapping tools, words/bigram counting, qualitative analysis information,
 the tool used to query Google Trends and Twitter, and finally the statistical analysis of the results.
+
+
+This tool was create as part of the project: "Who's Agenda is it anyway?" - a study on disinformation and its influence on vaccination willingness in the Netherlands.
+
+For the study we scanned the following websites: 
+|     Website                            |     Type of media    |     Number of articles scraped    |
+|----------------------------------------|----------------------|-----------------------------------|
+|     https://corona-nuchterheid.nl/     |     Alternative      |     205                           |
+|     https://oervaccin.nl/              |     Alternative      |     30                            |
+|     https://xandernieuws.net/          |     Alternative      |     405                           |
+|     https://dagelijksestandaard.nl/    |     Alternative      |     849                           |
+|     https://transitieweb.nl/           |     Alternative      |     474                           |
+|     https://stichtingvaccinvrij.nl/    |     Alternative      |     455                           |
+|     https://viruswaarheid.nl/          |     Alternative      |     202                           |
+|     https://staopvoorvrijheid.nl/      |     Alternative      |     32                            |
+|     https://nos.nl/                    |     Mainstream       |     4212                          |
+|     https://nu.nl/                     |     Mainstream       |     4929                          |
+|     https://fd.nl/                     |     Mainstream       |     1396                          |
+|     https://nrc.nl/                    |     Mainstream       |     6764                          |
+
+
+Following a manual analysis of specific words used in those retrieved articles, and classified based on their source, we identified the following category of "alternative" mentions:
+
+|     Code                                                           |     Description                                                                                                                                                           |     Suitable     term      to quantify alter- native     news?    |
+|--------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------|
+|     0) HTML/site artefact                                          |     Occurs often because   of the scraping/parsing     method, holds no useful information                                                                                |     No                                                            |
+|     1) Person   referred to in conspiracy theories                 |     People receiving blame for the pandemic or the     handling of it (Bill Gates, Hugo de Jonge,   Mark Rutte)                                                           |     Possibly                                                      |
+|     2) Person   involved in alternative media fab-     rication    |     People who are mentioned as source by alterna-     tive media, but also referred to in objective stories                                                              |     Possibly                                                      |
+|     3) Name   of alternative media                                 |     The name of the alternative media site or move-     ment, referred to in their   own articles, as source for   others or objectively reported about by real   news    |     Possibly                                                      |
+|     4) Other   diseases                                            |     Often referred to by alternative media to nuance     the severity of the novel   coronavirus                                                                          |     Yes                                                           |
+|     5) Vaccine discourage term                                     |     Refers to illnesses or other negative impacts vac-     cines allegedly cause                                                                                          |     Yes                                                           |
+|     6) Accusatory term for corona   protagonist                    |     Certain words to refer to people/organisations     related to corona in a negative way (e.g. Big   Pharma)                                                            |     Yes                                                           |
+|     7) Regular Dutch(/English) term                                |     Could be used   often by alternative media, but     is not separative enough for further quantitative analysis                                                        |     No                                                            |
+|     8) Other   (part of) conspiracy theory                         |     General terms used in conspiracy theories     (‘vernietigen’,   ‘Agenda 21’, ‘zuiveren’)                                                                              |     Yes                                                           |
+|     9) Noise                                                       |     Something which probably   went wrong with     scraping/parsing, either   way unusable                    
+
+
+
+To perform the search, we isolated the most frequents combination of words in each category, and used this as an input for futher searches on Google Trends and Twitter. 
+
+The full list of bigram per category can be found in the file : /data/wordsandbigrams.json.
+
 
 
 
@@ -96,4 +137,4 @@ The next step is to parse all responses:
 
 It is possible to save more attributes of the webpage, just add it via the same way as _text_ or _date_, and save it within the _yield_ method.
 This is also best written to a .json file, where it will create a list of all scraped articles with the given attributes.
->>>>>>> main
+
