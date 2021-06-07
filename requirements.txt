@@ -1,4 +1,3 @@
-psycopg2
 Scrapy
 bs4
 tqdm
