@@ -4,19 +4,13 @@ FROM jupyter/minimal-notebook
 
 USER root
 
-# Install Python 3 packages
-RUN pip install \
-    Scrapy \
-    bs4 \
-    tqdm \
-    nltk \
-    pytrends \
-    matplotlib \
-    pandas>=1.0 \
-    searchtweets \
-    searchtweets-v2 \
-    knapsack \
-    plotly \
-    statsmodels \
-    psutil \
-    xlrd \
+# clone the repository in the container 
+RUN git clone https://github.com/Spirited666/PublicDiscourseMiner-COVID.git 
+
+# Install python dependencies from the project
+RUN cd PublicDiscourseMiner-COVID \ 
+    && pip install --user -r requirements.txt
+
+CMD cd PublicDiscourseMiner-COVID \ 
+    && jupyter notebook --allow-root
+
