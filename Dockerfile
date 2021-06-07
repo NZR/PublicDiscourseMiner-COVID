@@ -1,6 +1,6 @@
 FROM jupyter/minimal-notebook
 
-# LABEL="PDM Public Discourse Miner"
+LABEL PDM Public Discourse Miner
 
 USER root
 
